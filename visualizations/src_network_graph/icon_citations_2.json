@@ -1,0 +1,2380 @@
+{
+   "nodes": [
+      {
+         "id": "S. Gonz\u00e1lez-Bail\u00f3n, et al. \"The dynamics of protest recruitment through an online network.\" Scientific Reports 1, 197 (2011) ",
+         "group": 0
+      },
+      {
+         "id": "Inhibiting diffusion of complex contagions in social networks: theoretical and experimental results",
+         "group": 1
+      },
+      {
+         "id": "C. J. Kuhlman",
+         "group": 2
+      },
+      {
+         "id": "V. S. A. Kumar",
+         "group": 2
+      },
+      {
+         "id": "M. V. Marathe",
+         "group": 2
+      },
+      {
+         "id": "S. S. Ravi",
+         "group": 2
+      },
+      {
+         "id": "D. J. Rosenkrantz",
+         "group": 2
+      },
+      {
+         "id": "Sensitivity of Diffusion Dynamics to Network Uncertainty",
+         "group": 1
+      },
+      {
+         "id": "A. Adiga",
+         "group": 2
+      },
+      {
+         "id": "C. Kuhlman",
+         "group": 2
+      },
+      {
+         "id": "H. S. Mortveit",
+         "group": 2
+      },
+      {
+         "id": "A. K. S. Vullikanti",
+         "group": 2
+      },
+      {
+         "id": "J. Kleinberg, \"Authoritative sources in a hyperlinked environment.\" Journal of the ACM 46(5), 604-632 (1999) ",
+         "group": 0
+      },
+      {
+         "id": "Provenance-Assisted Classification in Social Networks",
+         "group": 1
+      },
+      {
+         "id": "D. Wang",
+         "group": 2
+      },
+      {
+         "id": "M. T. A. Amin",
+         "group": 2
+      },
+      {
+         "id": "T. Abdelzaher",
+         "group": 2
+      },
+      {
+         "id": "D. Roth",
+         "group": 2
+      },
+      {
+         "id": "C. R. Voss",
+         "group": 2
+      },
+      {
+         "id": "L. M. Kaplan",
+         "group": 2
+      },
+      {
+         "id": "S. Tratz",
+         "group": 2
+      },
+      {
+         "id": "J. Laoudi",
+         "group": 2
+      },
+      {
+         "id": "D. Briesch",
+         "group": 2
+      },
+      {
+         "id": "Maximum Likelihood Analysis of Conflicting Observations in Social Sensing",
+         "group": 1
+      },
+      {
+         "id": "T. F. Abdelzaher",
+         "group": 2
+      },
+      {
+         "id": "A hybrid network-based method for the detection of disease-related genes",
+         "group": 1
+      },
+      {
+         "id": "Y. Cui",
+         "group": 2
+      },
+      {
+         "id": "M. Cai",
+         "group": 2
+      },
+      {
+         "id": "Y. Dai",
+         "group": 2
+      },
+      {
+         "id": "H. E. Stanley",
+         "group": 2
+      },
+      {
+         "id": "Control Centrality and Hierarchical Structure in Complex Networks",
+         "group": 1
+      },
+      {
+         "id": "Y. Liu",
+         "group": 2
+      },
+      {
+         "id": "J. Slotine",
+         "group": 2
+      },
+      {
+         "id": "A. Barab\u00e1si",
+         "group": 2
+      },
+      {
+         "id": "M. Richardson, R. Agrawal and P. Domingos. \"Trust Management for the Semantic Web.\" ISWC, 351-368 (2003). ",
+         "group": 0
+      },
+      {
+         "id": "W. de Nooy, A. Mrvar, and V. Batagelj, \"Exploratory Social Network Analysis with Pajek.\" Cambridge University Press, Chapter 2. (2004) ",
+         "group": 0
+      },
+      {
+         "id": "On the maximum quasi-clique problem",
+         "group": 1
+      },
+      {
+         "id": "J. Pattillo",
+         "group": 2
+      },
+      {
+         "id": "A. Veremyev",
+         "group": 2
+      },
+      {
+         "id": "S. Butenko",
+         "group": 2
+      },
+      {
+         "id": "V. Boginski",
+         "group": 2
+      },
+      {
+         "id": "Dense Percolation in Large-Scale Mean-Field Random Networks Is Provably \u2018\u2018Explosive\u2019\u2019",
+         "group": 1
+      },
+      {
+         "id": "P. A. Krokhmal",
+         "group": 2
+      },
+      {
+         "id": "D. E. Jeffcoat",
+         "group": 2
+      },
+      {
+         "id": "Epidemics in Partially Overlapped Multiplex Networks",
+         "group": 1
+      },
+      {
+         "id": "C. Buono",
+         "group": 2
+      },
+      {
+         "id": "L. G. Alvarez-zuzek",
+         "group": 2
+      },
+      {
+         "id": "P. A. Macri",
+         "group": 2
+      },
+      {
+         "id": "L. A. Braunstein",
+         "group": 2
+      },
+      {
+         "id": "R. Barnes and T. Burkett, \"Structural redundancy and multiplicity in corporate networks.\" International Network for Social Network Analysis 30(2), 4-20 (2010) ",
+         "group": 0
+      },
+      {
+         "id": "K. Reitz and D.R. White, \"Rethinking the Role Concept: Homomorphisms on Social Networks\" pp. 429-488 in L.C.Freeman, D.R. White, A.K.Romney, eds., \"Research Methods in Social Network Analysis.\" George Mason Press (1989) ",
+         "group": 0
+      },
+      {
+         "id": "E. Cho, S. A. Myers, and J. Leskovec, \"Friendship and mobility: user movement in location-based social networks.\" Proc. 17th Internat. Conf. on Knowledge Discovery and Data Mining (KDD), 1082-1090 (2011). ",
+         "group": 0
+      },
+      {
+         "id": "From Fingerprint to Footprint: Revealing Physical World Privacy Leakage by Cyberspace Cookie Logs-0.2cm",
+         "group": 1
+      },
+      {
+         "id": "H. Wang",
+         "group": 2
+      },
+      {
+         "id": "Chen",
+         "group": 2
+      },
+      {
+         "id": "Y. Li",
+         "group": 2
+      },
+      {
+         "id": "Z. Zhang",
+         "group": 2
+      },
+      {
+         "id": "D. Jin",
+         "group": 2
+      },
+      {
+         "id": "D. Krackhardt, \"Cognitive social structures\". Social Networks (1987), 9, 104-134. ",
+         "group": 0
+      },
+      {
+         "id": "A dyadic reciprocity index for repeated interaction networks\u2217",
+         "group": 1
+      },
+      {
+         "id": "C. Wang",
+         "group": 2
+      },
+      {
+         "id": "O. Lizardo",
+         "group": 2
+      },
+      {
+         "id": "D. Hachen",
+         "group": 2
+      },
+      {
+         "id": "T. M. Newcomb, \"The acquaintance process.\" Holt, Rinehart and Winston Publishers (1961) ",
+         "group": 0
+      },
+      {
+         "id": "M. E. J. Newman, \"The structure of scientific collaboration networks.\" Proc. Natl. Acad. Sci. USA 98(2), 404-409 (2001). arxiv:cond-mat/0007214 ",
+         "group": 0
+      },
+      {
+         "id": "Multiplex Influence Maximization in Online Social Networks with Heterogeneous Diffusion Models",
+         "group": 1
+      },
+      {
+         "id": "A. Kuhnle",
+         "group": 2
+      },
+      {
+         "id": "M. A. Alim",
+         "group": 2
+      },
+      {
+         "id": "H. Zhang",
+         "group": 2
+      },
+      {
+         "id": "X. Li",
+         "group": 2
+      },
+      {
+         "id": "The science of science: From the perspective of complex systems",
+         "group": 1
+      },
+      {
+         "id": "A. Zeng",
+         "group": 2
+      },
+      {
+         "id": "Z. Shen",
+         "group": 2
+      },
+      {
+         "id": "J. Zhou",
+         "group": 2
+      },
+      {
+         "id": "J. Wu",
+         "group": 2
+      },
+      {
+         "id": "Y. Fan",
+         "group": 2
+      },
+      {
+         "id": "Y. Wang",
+         "group": 2
+      },
+      {
+         "id": "M.E.J. Newman, \"Finding community structure in networks using the eigenvectors of matrices.\" Phys. Rev. E 74, 036104 (2006). ",
+         "group": 0
+      },
+      {
+         "id": "Geometry of Complex Networks and Topological Centrality",
+         "group": 1
+      },
+      {
+         "id": "G. Ranjan",
+         "group": 2
+      },
+      {
+         "id": "M. E. J. Newman, \"Finding community structure in networks using the eigenvectors of matrices.\" Phys. Rev. E 74, 036104 (2006). arxiv:physics/0605087 ",
+         "group": 0
+      },
+      {
+         "id": "M. Girvan and M. E. J. Newman, \"Community structure in social and biological networks.\" Proc. Natl. Acad. Sci. USA 99(12), 7821-7826 (2002). arxiv:cond-mat/0112110 ",
+         "group": 0
+      },
+      {
+         "id": "Dynamic Social Community Detection and Its Applications",
+         "group": 1
+      },
+      {
+         "id": "N. P. Nguyen",
+         "group": 2
+      },
+      {
+         "id": "T. N. Dinh",
+         "group": 2
+      },
+      {
+         "id": "Y. Shen",
+         "group": 2
+      },
+      {
+         "id": "M. T. Thai",
+         "group": 2
+      },
+      {
+         "id": "Geographic Constraints on Social Network Groups",
+         "group": 1
+      },
+      {
+         "id": "J. Onnela",
+         "group": 2
+      },
+      {
+         "id": "S. Arbesman",
+         "group": 2
+      },
+      {
+         "id": "M. C. Gonz\u00e1lez",
+         "group": 2
+      },
+      {
+         "id": "N. A. Christakis",
+         "group": 2
+      },
+      {
+         "id": "Ranking stability and super-stable nodes in complex networks",
+         "group": 1
+      },
+      {
+         "id": "G. Ghoshal",
+         "group": 2
+      },
+      {
+         "id": "Community Detection in Scale-Free Networks: Approximation Algorithms for Maximizing Modularity",
+         "group": 1
+      },
+      {
+         "id": "Resilience of networks with community structure behaves as if under an external field",
+         "group": 1
+      },
+      {
+         "id": "G. Dong",
+         "group": 2
+      },
+      {
+         "id": "J. Fan",
+         "group": 2
+      },
+      {
+         "id": "L. M. Shekhtman",
+         "group": 2
+      },
+      {
+         "id": "S. Shai",
+         "group": 2
+      },
+      {
+         "id": "R. Du",
+         "group": 2
+      },
+      {
+         "id": "L. Tian",
+         "group": 2
+      },
+      {
+         "id": "X. Chen",
+         "group": 2
+      },
+      {
+         "id": "S. Havlin",
+         "group": 2
+      },
+      {
+         "id": "I. M. Sokolov",
+         "group": 2
+      },
+      {
+         "id": "A. Chaintreau et al. \u201cImpact of human mobility on opportunistic forwarding algorithms.\u201d IEEE Trans. on Mobile Computing 6(6), 606-620 (2007). ",
+         "group": 0
+      },
+      {
+         "id": "N. Eagle & A. Pentland, \"Reality mining: sensing complex social systems.\" Personal and Ubiquitous Computing 10(4), 255-268 (2006). ",
+         "group": 0
+      },
+      {
+         "id": "H. Jeong et al. \"The large-scale organization of metabolic networks.\" Nature 407, 651-654 (2000). ",
+         "group": 0
+      },
+      {
+         "id": "Emergence of bimodality in controlling complex networks",
+         "group": 1
+      },
+      {
+         "id": "T. Jia",
+         "group": 2
+      },
+      {
+         "id": "E. Cs\u00f3ka",
+         "group": 2
+      },
+      {
+         "id": "M. P\u00f3sfai",
+         "group": 2
+      },
+      {
+         "id": "M.A.J. Van Duijn et al. \"Evolution of sociology freshmen into a friendship network.\" J. Mathematical Sociology 27(2-3), 153-191 (2003) ",
+         "group": 0
+      },
+      {
+         "id": "D.J. Felleman and D.C. van Essen, \"Distributed hierarchical processing in the primate cerebral cortex.\" Cerebral Cortex 1(1), 1-47 (1991). ",
+         "group": 0
+      },
+      {
+         "id": "A Predictive Network Model of Cerebral Cortical Connectivity Based on a Distance Rule",
+         "group": 1
+      },
+      {
+         "id": "M. Ercsey-ravasz",
+         "group": 2
+      },
+      {
+         "id": "N. T. Markov",
+         "group": 2
+      },
+      {
+         "id": "C. Lamy",
+         "group": 2
+      },
+      {
+         "id": "D. C. V. Essen",
+         "group": 2
+      },
+      {
+         "id": "K. Knoblauch",
+         "group": 2
+      },
+      {
+         "id": "Z. Toroczkai",
+         "group": 2
+      },
+      {
+         "id": "H. Kennedy",
+         "group": 2
+      },
+      {
+         "id": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "group": 1
+      },
+      {
+         "id": "A. R. R. Gomes",
+         "group": 2
+      },
+      {
+         "id": "L. Magrou",
+         "group": 2
+      },
+      {
+         "id": "P. Misery",
+         "group": 2
+      },
+      {
+         "id": "P. Giroud",
+         "group": 2
+      },
+      {
+         "id": "P. Barone",
+         "group": 2
+      },
+      {
+         "id": "C. Dehay",
+         "group": 2
+      },
+      {
+         "id": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "group": 1
+      },
+      {
+         "id": "M. M. Ercsey-ravasz",
+         "group": 2
+      },
+      {
+         "id": "J. Vezoli",
+         "group": 2
+      },
+      {
+         "id": "A. Falchier",
+         "group": 2
+      },
+      {
+         "id": "R. Quilodran",
+         "group": 2
+      },
+      {
+         "id": "M. A. Gariel",
+         "group": 2
+      },
+      {
+         "id": "J. Sallet",
+         "group": 2
+      },
+      {
+         "id": "R. Gamanut",
+         "group": 2
+      },
+      {
+         "id": "C. Huissoud",
+         "group": 2
+      },
+      {
+         "id": "S. Clavagnier",
+         "group": 2
+      },
+      {
+         "id": "D. Sappey-marinier",
+         "group": 2
+      },
+      {
+         "id": "C.J. Honey, R. Kotter, M. Breakspear, and O. Sporns, \"Network structure of cerebral cortex shapes functional connectivity on multiple time scales.\" Proc. Natl. Acad. Sci. USA 104(24), 10240-10245 (2007). ",
+         "group": 0
+      },
+      {
+         "id": "N.T. Markov et al., \"The role of long-range connections on the specificity of the macaque interareal cortical network.\" Proc. Natl. Acad. Sci. USA 110(13), 5187-5192 (2013). ",
+         "group": 0
+      },
+      {
+         "id": "A.-L. Barabasi and R. Albert, \"Emergence of Scaling in Random Networks.\" Science 286, 509-512 (1999). ",
+         "group": 0
+      },
+      {
+         "id": "Preferential Attachment in the Interaction between Dynamically Generated Interdependent Networks",
+         "group": 1
+      },
+      {
+         "id": "B. Podobnik",
+         "group": 2
+      },
+      {
+         "id": "D. Horvati\u0107",
+         "group": 2
+      },
+      {
+         "id": "M. Dickison",
+         "group": 2
+      },
+      {
+         "id": "L. Isella et al., \"What\u2019s in a crowd? Analysis of face-to-face behavioral networks.\" J. Theor. Bio. 271, 166-180 (2011). ",
+         "group": 0
+      },
+      {
+         "id": "SOCIAL DISTANCING STRATEGIES AGAINST DISEASE SPREADING",
+         "group": 1
+      },
+      {
+         "id": "L. D. Valdez",
+         "group": 2
+      },
+      {
+         "id": "A. Clauset, S. Arbesman, and D. B. Larremore, \"Systematic inequality and hierarchy in faculty hiring networks.\" Science Advances 1(1), e1400005 (2015). ",
+         "group": 0
+      },
+      {
+         "id": "C.R. Myers, \"Software systems as complex networks: Structure, function, and evolvability of software collaboration graphs.\" Physical Review E 68, 046116 \udbff\udc09(2003\udbff\udc00) ",
+         "group": 0
+      },
+      {
+         "id": "L. \u0160ubelj, & M. Bajec, \"Community structure of complex software systems: Analysis and applications.\" Physica A 390(16), 2968-2975 (2011) ",
+         "group": 0
+      },
+      {
+         "id": "M. De Domenico et al. \"Structural reducibility of multilayer networks\". Nature Communications 6, 6864 (2015) ",
+         "group": 0
+      },
+      {
+         "id": "M. De Domenico, V. Nicosia, A. Arenas and V. Latora, \"Structural reducibility of multilayer networks\". Nature Communications 6, 6864 (2015) ",
+         "group": 0
+      },
+      {
+         "id": "K. I. Goh et al. \"The human disease network.\" Proc. Natl. Acad. Sci. USA 104(21), 8685-8690 (2007). ",
+         "group": 0
+      },
+      {
+         "id": "Discovering disease-associated genes in weighted protein\u2013protein interaction networks",
+         "group": 1
+      },
+      {
+         "id": "D. A. Smith, & D. R. White, \"Structure and dynamics of the global economy: network analysis of international trade 1965-1980.\" Social forces 70(4), 857-893 (1992). ",
+         "group": 0
+      },
+      {
+         "id": "Spatial correlation analysis of cascading failures: Congestions and Blackouts",
+         "group": 1
+      },
+      {
+         "id": "Manlio De Domenico, Albert Sol\u00e9-Ribalta, Sergio G\u00f3mez, and Alex Arenas, \"Navigability of interconnected networks under random failures.\" PNAS 111, 8351-8356 (2014) ",
+         "group": 0
+      },
+      {
+         "id": "IoT network resilience: Methodology and example of assessment through epidemic spreading approach",
+         "group": 1
+      },
+      {
+         "id": "E. Bellini",
+         "group": 2
+      },
+      {
+         "id": "F. Bagnoli",
+         "group": 2
+      },
+      {
+         "id": "E. Massaro",
+         "group": 2
+      },
+      {
+         "id": "A. Ganin",
+         "group": 2
+      },
+      {
+         "id": "I. Linkov",
+         "group": 2
+      },
+      {
+         "id": "R. Kotter, \"Online retrieval, processing, and visualization of primate connectivity data from the CoCoMac database.\" Neuroinformatics 2, 127-144 (2004) ",
+         "group": 0
+      },
+      {
+         "id": "M.P. Young, \"The organization of neural systems in the primate cerebral cortex.\" Proc. R. Soc. London B 252,13-18 (1993) ",
+         "group": 0
+      },
+      {
+         "id": "W. W. Zachary, \"An information flow model for conflict and fission in small groups.\" Journal of Anthropological Research 33, 452-473 (1977). ",
+         "group": 0
+      },
+      {
+         "id": "Diffusion in Networks: Source Localization, History Reconstruction and Real-Time Network Robustification by",
+         "group": 1
+      },
+      {
+         "id": "Z. Chen",
+         "group": 2
+      },
+      {
+         "id": "J. He",
+         "group": 2
+      },
+      {
+         "id": "J. Zhang",
+         "group": 2
+      },
+      {
+         "id": "Power iteration ranking via hybrid diffusion for vital nodes identification",
+         "group": 1
+      },
+      {
+         "id": "T. Wu",
+         "group": 2
+      },
+      {
+         "id": "X. Xian",
+         "group": 2
+      },
+      {
+         "id": "L. Zhong",
+         "group": 2
+      },
+      {
+         "id": "X. Xiong",
+         "group": 2
+      },
+      {
+         "id": "J. Leskovec, L. Adamic and B. Adamic. \"The Dynamics of Viral Marketing.\" ACM Transactions on the Web (ACM TWEB), 1 (2007) ",
+         "group": 0
+      },
+      {
+         "id": "Failure and recovery in dynamical networks",
+         "group": 1
+      },
+      {
+         "id": "L. B\u00f6ttcher",
+         "group": 2
+      },
+      {
+         "id": "M. Lukovi\u0107",
+         "group": 2
+      },
+      {
+         "id": "J. Nagler",
+         "group": 2
+      },
+      {
+         "id": "H. J. Herrmann",
+         "group": 2
+      },
+      {
+         "id": "Finding Critical Nodes for Inhibiting Diffusion of Complex Contagions in Social Networks",
+         "group": 1
+      },
+      {
+         "id": "V. A. Kumar",
+         "group": 2
+      },
+      {
+         "id": "S. Ravi",
+         "group": 2
+      },
+      {
+         "id": "V. Asal, and R. Karl Rethemeyer, \u201cThe Nature of the Beast: Organizational Structures and the Lethality of Terrorist Attacks.\u201d The Journal of Politics 70(2), 437-449 (2008) ",
+         "group": 0
+      },
+      {
+         "id": "When Terrorists Go Bad: Analyzing Terrorist Organizations\u2019 Involvement in Drug Smuggling*",
+         "group": 1
+      },
+      {
+         "id": "V. Asal",
+         "group": 2
+      },
+      {
+         "id": "E. W. Schoon",
+         "group": 2
+      },
+      {
+         "id": "R. Albert, H. Jeong, and A.-L. Barabasi. \"Diameter of the World-Wide Web.\" Nature 401, 130 (1999). ",
+         "group": 0
+      },
+      {
+         "id": "Controlling opinion propagation in online networks",
+         "group": 1
+      },
+      {
+         "id": "A. Kumar",
+         "group": 2
+      },
+      {
+         "id": "V. Krebs, \"Mapping networks of terrorist cells.\" Connections 24, 43-52 (2002). ",
+         "group": 0
+      },
+      {
+         "id": "Comparative configurational analysis as a two-mode network problem: A study of terrorist group engagement in the drug trade",
+         "group": 1
+      },
+      {
+         "id": "o. L. Breigera",
+         "group": 2
+      },
+      {
+         "id": "E. Schoona",
+         "group": 2
+      },
+      {
+         "id": "D. Melamedb",
+         "group": 2
+      },
+      {
+         "id": "V. Asalc",
+         "group": 2
+      },
+      {
+         "id": "R. K. Rethemeyerd",
+         "group": 2
+      },
+      {
+         "id": "J.-P. Onnela et al., \"Dynamics of market correlations: Taxonomy and portfolio analysis.\" Phys. Rev. E 68, 056110 (2003) ",
+         "group": 0
+      },
+      {
+         "id": "Stock market as temporal network",
+         "group": 1
+      },
+      {
+         "id": "L. Zhao",
+         "group": 2
+      },
+      {
+         "id": "G. Wang",
+         "group": 2
+      },
+      {
+         "id": "M. Wang",
+         "group": 2
+      },
+      {
+         "id": "W. Bao",
+         "group": 2
+      },
+      {
+         "id": "W. Li",
+         "group": 2
+      },
+      {
+         "id": "R. Cross and A. Parker, \"The Hidden Power of Social Networks.\" Harvard Business School Press (2004). ",
+         "group": 0
+      },
+      {
+         "id": "V. Colizza, R. Pastor-Satorras and A. Vespignani, \"Reaction-diffusion processes and metapopulation models in heterogeneous networks.\" Nature Physics 3, 276-282 (2007) ",
+         "group": 0
+      },
+      {
+         "id": "B. Zhang et al., \"Collecting the Internet AS-level topology.\" SIGCOMM Computer Communication Review 35(1), 53-61 (2005) ",
+         "group": 0
+      },
+      {
+         "id": "T. Ito et al., \"A comprehensive two-hybrid analysis to explore the yeast protein interactome.\" Proc. Natl. Acad. Sci. USA. 98(8), 4569-4574 (2001). ",
+         "group": 0
+      },
+      {
+         "id": "Feature selection with interactions in logistic regression models using multivariate synergies for a GWAS application",
+         "group": 1
+      },
+      {
+         "id": "E. L. Xu",
+         "group": 2
+      },
+      {
+         "id": "X. Qian",
+         "group": 2
+      },
+      {
+         "id": "Q. Yu",
+         "group": 2
+      },
+      {
+         "id": "S. Cui",
+         "group": 2
+      },
+      {
+         "id": "O. Jahn, et al., \"System-optimal routing of traffic flows with user constraints in networks with congestion.\" Operations Research 53(4), 600-616 (2005). ",
+         "group": 0
+      },
+      {
+         "id": "Algorithms for an Integer Multicommodity Network Flow Problem with Node Reliability Considerations",
+         "group": 1
+      },
+      {
+         "id": "B. Tadayon",
+         "group": 2
+      },
+      {
+         "id": "J. C. Smith",
+         "group": 2
+      },
+      {
+         "id": "S. Borgatti & M. Everett, \"Models of core/periphery structures.\" Social Networks 21, 375\u2013395 (1999) ",
+         "group": 0
+      },
+      {
+         "id": "Uncovering the Nucleus of Social Networks",
+         "group": 1
+      },
+      {
+         "id": "B. Dumba",
+         "group": 2
+      },
+      {
+         "id": "N. Blagus, L. \u0160ubelj, & M. Bajec, \"Self-similar scaling of density in complex real-world networks.\" Physica A: Statistical Mechanics and its Applications 391(8), 2794-2802 (2012). ",
+         "group": 0
+      },
+      {
+         "id": "Growth dominates choice in network percolation",
+         "group": 1
+      },
+      {
+         "id": "V. S. Vijayaraghavan",
+         "group": 2
+      },
+      {
+         "id": "P. No\u00ebl",
+         "group": 2
+      },
+      {
+         "id": "A. Waagen",
+         "group": 2
+      },
+      {
+         "id": "R. M. D\u2019souza",
+         "group": 2
+      },
+      {
+         "id": "J. Tang, et al. \"Arnetminer: extraction and mining of academic social networks.\" Proc. 14th ACM SIGKDD Internat. Conf. on Knowledge Disc. and Data Mining (2008) ",
+         "group": 0
+      },
+      {
+         "id": "HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection",
+         "group": 1
+      },
+      {
+         "id": "S. Zhang",
+         "group": 2
+      },
+      {
+         "id": "D. Zhou",
+         "group": 2
+      },
+      {
+         "id": "M. Y. Yildirim",
+         "group": 2
+      },
+      {
+         "id": "S. Alcorn",
+         "group": 2
+      },
+      {
+         "id": "H. Davulcu",
+         "group": 2
+      },
+      {
+         "id": "H. Tong",
+         "group": 2
+      },
+      {
+         "id": "S. Knight, et al. \"The Internet Topology Zoo.\" IEEE Journal on Selected Areas in Communications 29(9), 1765-1775 (2011) ",
+         "group": 0
+      },
+      {
+         "id": "Multi-universality and localized attacks in spatially embedded networks",
+         "group": 1
+      },
+      {
+         "id": "B. Gross",
+         "group": 2
+      },
+      {
+         "id": "D. Vaknin",
+         "group": 2
+      },
+      {
+         "id": "M. M. Danziger",
+         "group": 2
+      },
+      {
+         "id": "P. Massa, M. Salvetti, and D. Tomasoni. \"Bowling alone and trust decline in social network sites.\" Dependable, Autonomic and Secure Computing, 2009. DASC'09. Eighth IEEE International Conference on. (2009). ",
+         "group": 0
+      },
+      {
+         "id": "Promoting information spreading by using contact memory",
+         "group": 1
+      },
+      {
+         "id": "L. Gao",
+         "group": 2
+      },
+      {
+         "id": "W. Wang",
+         "group": 2
+      },
+      {
+         "id": "2(a",
+         "group": 2
+      },
+      {
+         "id": "P. Shu3(b",
+         "group": 2
+      },
+      {
+         "id": "H. Gao",
+         "group": 2
+      },
+      {
+         "id": "Alessio Cardillo, Jes\u00fas G\u00f3mez-Gardenes, Massimiliano Zanin, Miguel Romance, David Papo, Francisco del Pozo and Stefano Boccaletti. \"Emergence of network features from multiplexity.\" Scientific Reports 3, Article number: 1344 doi:10.1038/srep01344 ",
+         "group": 0
+      }
+   ],
+   "links": [
+      {
+         "source": "S. Gonz\u00e1lez-Bail\u00f3n, et al. \"The dynamics of protest recruitment through an online network.\" Scientific Reports 1, 197 (2011) ",
+         "target": "Inhibiting diffusion of complex contagions in social networks: theoretical and experimental results",
+         "value": 1
+      },
+      {
+         "source": "Inhibiting diffusion of complex contagions in social networks: theoretical and experimental results",
+         "target": "C. J. Kuhlman",
+         "value": 2
+      },
+      {
+         "source": "Inhibiting diffusion of complex contagions in social networks: theoretical and experimental results",
+         "target": "V. S. A. Kumar",
+         "value": 2
+      },
+      {
+         "source": "Inhibiting diffusion of complex contagions in social networks: theoretical and experimental results",
+         "target": "M. V. Marathe",
+         "value": 2
+      },
+      {
+         "source": "Inhibiting diffusion of complex contagions in social networks: theoretical and experimental results",
+         "target": "S. S. Ravi",
+         "value": 2
+      },
+      {
+         "source": "Inhibiting diffusion of complex contagions in social networks: theoretical and experimental results",
+         "target": "D. J. Rosenkrantz",
+         "value": 2
+      },
+      {
+         "source": "S. Gonz\u00e1lez-Bail\u00f3n, et al. \"The dynamics of protest recruitment through an online network.\" Scientific Reports 1, 197 (2011) ",
+         "target": "Sensitivity of Diffusion Dynamics to Network Uncertainty",
+         "value": 1
+      },
+      {
+         "source": "Sensitivity of Diffusion Dynamics to Network Uncertainty",
+         "target": "A. Adiga",
+         "value": 2
+      },
+      {
+         "source": "Sensitivity of Diffusion Dynamics to Network Uncertainty",
+         "target": "C. Kuhlman",
+         "value": 2
+      },
+      {
+         "source": "Sensitivity of Diffusion Dynamics to Network Uncertainty",
+         "target": "H. S. Mortveit",
+         "value": 2
+      },
+      {
+         "source": "Sensitivity of Diffusion Dynamics to Network Uncertainty",
+         "target": "A. K. S. Vullikanti",
+         "value": 2
+      },
+      {
+         "source": "J. Kleinberg, \"Authoritative sources in a hyperlinked environment.\" Journal of the ACM 46(5), 604-632 (1999) ",
+         "target": "Inhibiting diffusion of complex contagions in social networks: theoretical and experimental results",
+         "value": 1
+      },
+      {
+         "source": "J. Kleinberg, \"Authoritative sources in a hyperlinked environment.\" Journal of the ACM 46(5), 604-632 (1999) ",
+         "target": "Provenance-Assisted Classification in Social Networks",
+         "value": 1
+      },
+      {
+         "source": "Provenance-Assisted Classification in Social Networks",
+         "target": "D. Wang",
+         "value": 2
+      },
+      {
+         "source": "Provenance-Assisted Classification in Social Networks",
+         "target": "M. T. A. Amin",
+         "value": 2
+      },
+      {
+         "source": "Provenance-Assisted Classification in Social Networks",
+         "target": "T. Abdelzaher",
+         "value": 2
+      },
+      {
+         "source": "Provenance-Assisted Classification in Social Networks",
+         "target": "D. Roth",
+         "value": 2
+      },
+      {
+         "source": "Provenance-Assisted Classification in Social Networks",
+         "target": "C. R. Voss",
+         "value": 2
+      },
+      {
+         "source": "Provenance-Assisted Classification in Social Networks",
+         "target": "L. M. Kaplan",
+         "value": 2
+      },
+      {
+         "source": "Provenance-Assisted Classification in Social Networks",
+         "target": "S. Tratz",
+         "value": 2
+      },
+      {
+         "source": "Provenance-Assisted Classification in Social Networks",
+         "target": "J. Laoudi",
+         "value": 2
+      },
+      {
+         "source": "Provenance-Assisted Classification in Social Networks",
+         "target": "D. Briesch",
+         "value": 2
+      },
+      {
+         "source": "J. Kleinberg, \"Authoritative sources in a hyperlinked environment.\" Journal of the ACM 46(5), 604-632 (1999) ",
+         "target": "Maximum Likelihood Analysis of Conflicting Observations in Social Sensing",
+         "value": 1
+      },
+      {
+         "source": "Maximum Likelihood Analysis of Conflicting Observations in Social Sensing",
+         "target": "D. Wang",
+         "value": 2
+      },
+      {
+         "source": "Maximum Likelihood Analysis of Conflicting Observations in Social Sensing",
+         "target": "T. F. Abdelzaher",
+         "value": 2
+      },
+      {
+         "source": "J. Kleinberg, \"Authoritative sources in a hyperlinked environment.\" Journal of the ACM 46(5), 604-632 (1999) ",
+         "target": "A hybrid network-based method for the detection of disease-related genes",
+         "value": 1
+      },
+      {
+         "source": "A hybrid network-based method for the detection of disease-related genes",
+         "target": "Y. Cui",
+         "value": 2
+      },
+      {
+         "source": "A hybrid network-based method for the detection of disease-related genes",
+         "target": "M. Cai",
+         "value": 2
+      },
+      {
+         "source": "A hybrid network-based method for the detection of disease-related genes",
+         "target": "Y. Dai",
+         "value": 2
+      },
+      {
+         "source": "A hybrid network-based method for the detection of disease-related genes",
+         "target": "H. E. Stanley",
+         "value": 2
+      },
+      {
+         "source": "J. Kleinberg, \"Authoritative sources in a hyperlinked environment.\" Journal of the ACM 46(5), 604-632 (1999) ",
+         "target": "Control Centrality and Hierarchical Structure in Complex Networks",
+         "value": 1
+      },
+      {
+         "source": "Control Centrality and Hierarchical Structure in Complex Networks",
+         "target": "Y. Liu",
+         "value": 2
+      },
+      {
+         "source": "Control Centrality and Hierarchical Structure in Complex Networks",
+         "target": "J. Slotine",
+         "value": 2
+      },
+      {
+         "source": "Control Centrality and Hierarchical Structure in Complex Networks",
+         "target": "A. Barab\u00e1si",
+         "value": 2
+      },
+      {
+         "source": "M. Richardson, R. Agrawal and P. Domingos. \"Trust Management for the Semantic Web.\" ISWC, 351-368 (2003). ",
+         "target": "Inhibiting diffusion of complex contagions in social networks: theoretical and experimental results",
+         "value": 1
+      },
+      {
+         "source": "W. de Nooy, A. Mrvar, and V. Batagelj, \"Exploratory Social Network Analysis with Pajek.\" Cambridge University Press, Chapter 2. (2004) ",
+         "target": "On the maximum quasi-clique problem",
+         "value": 1
+      },
+      {
+         "source": "On the maximum quasi-clique problem",
+         "target": "J. Pattillo",
+         "value": 2
+      },
+      {
+         "source": "On the maximum quasi-clique problem",
+         "target": "A. Veremyev",
+         "value": 2
+      },
+      {
+         "source": "On the maximum quasi-clique problem",
+         "target": "S. Butenko",
+         "value": 2
+      },
+      {
+         "source": "On the maximum quasi-clique problem",
+         "target": "V. Boginski",
+         "value": 2
+      },
+      {
+         "source": "W. de Nooy, A. Mrvar, and V. Batagelj, \"Exploratory Social Network Analysis with Pajek.\" Cambridge University Press, Chapter 2. (2004) ",
+         "target": "Dense Percolation in Large-Scale Mean-Field Random Networks Is Provably \u2018\u2018Explosive\u2019\u2019",
+         "value": 1
+      },
+      {
+         "source": "Dense Percolation in Large-Scale Mean-Field Random Networks Is Provably \u2018\u2018Explosive\u2019\u2019",
+         "target": "A. Veremyev",
+         "value": 2
+      },
+      {
+         "source": "Dense Percolation in Large-Scale Mean-Field Random Networks Is Provably \u2018\u2018Explosive\u2019\u2019",
+         "target": "V. Boginski",
+         "value": 2
+      },
+      {
+         "source": "Dense Percolation in Large-Scale Mean-Field Random Networks Is Provably \u2018\u2018Explosive\u2019\u2019",
+         "target": "P. A. Krokhmal",
+         "value": 2
+      },
+      {
+         "source": "Dense Percolation in Large-Scale Mean-Field Random Networks Is Provably \u2018\u2018Explosive\u2019\u2019",
+         "target": "D. E. Jeffcoat",
+         "value": 2
+      },
+      {
+         "source": "W. de Nooy, A. Mrvar, and V. Batagelj, \"Exploratory Social Network Analysis with Pajek.\" Cambridge University Press, Chapter 2. (2004) ",
+         "target": "Epidemics in Partially Overlapped Multiplex Networks",
+         "value": 1
+      },
+      {
+         "source": "Epidemics in Partially Overlapped Multiplex Networks",
+         "target": "C. Buono",
+         "value": 2
+      },
+      {
+         "source": "Epidemics in Partially Overlapped Multiplex Networks",
+         "target": "L. G. Alvarez-zuzek",
+         "value": 2
+      },
+      {
+         "source": "Epidemics in Partially Overlapped Multiplex Networks",
+         "target": "P. A. Macri",
+         "value": 2
+      },
+      {
+         "source": "Epidemics in Partially Overlapped Multiplex Networks",
+         "target": "L. A. Braunstein",
+         "value": 2
+      },
+      {
+         "source": "R. Barnes and T. Burkett, \"Structural redundancy and multiplicity in corporate networks.\" International Network for Social Network Analysis 30(2), 4-20 (2010) ",
+         "target": "On the maximum quasi-clique problem",
+         "value": 1
+      },
+      {
+         "source": "K. Reitz and D.R. White, \"Rethinking the Role Concept: Homomorphisms on Social Networks\" pp. 429-488 in L.C.Freeman, D.R. White, A.K.Romney, eds., \"Research Methods in Social Network Analysis.\" George Mason Press (1989) ",
+         "target": "On the maximum quasi-clique problem",
+         "value": 1
+      },
+      {
+         "source": "E. Cho, S. A. Myers, and J. Leskovec, \"Friendship and mobility: user movement in location-based social networks.\" Proc. 17th Internat. Conf. on Knowledge Discovery and Data Mining (KDD), 1082-1090 (2011). ",
+         "target": "From Fingerprint to Footprint: Revealing Physical World Privacy Leakage by Cyberspace Cookie Logs-0.2cm",
+         "value": 1
+      },
+      {
+         "source": "From Fingerprint to Footprint: Revealing Physical World Privacy Leakage by Cyberspace Cookie Logs-0.2cm",
+         "target": "H. Wang",
+         "value": 2
+      },
+      {
+         "source": "From Fingerprint to Footprint: Revealing Physical World Privacy Leakage by Cyberspace Cookie Logs-0.2cm",
+         "target": "Chen",
+         "value": 2
+      },
+      {
+         "source": "From Fingerprint to Footprint: Revealing Physical World Privacy Leakage by Cyberspace Cookie Logs-0.2cm",
+         "target": "Y. Li",
+         "value": 2
+      },
+      {
+         "source": "From Fingerprint to Footprint: Revealing Physical World Privacy Leakage by Cyberspace Cookie Logs-0.2cm",
+         "target": "Z. Zhang",
+         "value": 2
+      },
+      {
+         "source": "From Fingerprint to Footprint: Revealing Physical World Privacy Leakage by Cyberspace Cookie Logs-0.2cm",
+         "target": "D. Jin",
+         "value": 2
+      },
+      {
+         "source": "D. Krackhardt, \"Cognitive social structures\". Social Networks (1987), 9, 104-134. ",
+         "target": "A dyadic reciprocity index for repeated interaction networks\u2217",
+         "value": 1
+      },
+      {
+         "source": "A dyadic reciprocity index for repeated interaction networks\u2217",
+         "target": "C. Wang",
+         "value": 2
+      },
+      {
+         "source": "A dyadic reciprocity index for repeated interaction networks\u2217",
+         "target": "O. Lizardo",
+         "value": 2
+      },
+      {
+         "source": "A dyadic reciprocity index for repeated interaction networks\u2217",
+         "target": "D. Hachen",
+         "value": 2
+      },
+      {
+         "source": "T. M. Newcomb, \"The acquaintance process.\" Holt, Rinehart and Winston Publishers (1961) ",
+         "target": "A dyadic reciprocity index for repeated interaction networks\u2217",
+         "value": 1
+      },
+      {
+         "source": "M. E. J. Newman, \"The structure of scientific collaboration networks.\" Proc. Natl. Acad. Sci. USA 98(2), 404-409 (2001). arxiv:cond-mat/0007214 ",
+         "target": "Multiplex Influence Maximization in Online Social Networks with Heterogeneous Diffusion Models",
+         "value": 1
+      },
+      {
+         "source": "Multiplex Influence Maximization in Online Social Networks with Heterogeneous Diffusion Models",
+         "target": "A. Kuhnle",
+         "value": 2
+      },
+      {
+         "source": "Multiplex Influence Maximization in Online Social Networks with Heterogeneous Diffusion Models",
+         "target": "M. A. Alim",
+         "value": 2
+      },
+      {
+         "source": "Multiplex Influence Maximization in Online Social Networks with Heterogeneous Diffusion Models",
+         "target": "H. Zhang",
+         "value": 2
+      },
+      {
+         "source": "Multiplex Influence Maximization in Online Social Networks with Heterogeneous Diffusion Models",
+         "target": "X. Li",
+         "value": 2
+      },
+      {
+         "source": "M. E. J. Newman, \"The structure of scientific collaboration networks.\" Proc. Natl. Acad. Sci. USA 98(2), 404-409 (2001). arxiv:cond-mat/0007214 ",
+         "target": "The science of science: From the perspective of complex systems",
+         "value": 1
+      },
+      {
+         "source": "The science of science: From the perspective of complex systems",
+         "target": "A. Zeng",
+         "value": 2
+      },
+      {
+         "source": "The science of science: From the perspective of complex systems",
+         "target": "Z. Shen",
+         "value": 2
+      },
+      {
+         "source": "The science of science: From the perspective of complex systems",
+         "target": "J. Zhou",
+         "value": 2
+      },
+      {
+         "source": "The science of science: From the perspective of complex systems",
+         "target": "J. Wu",
+         "value": 2
+      },
+      {
+         "source": "The science of science: From the perspective of complex systems",
+         "target": "Y. Fan",
+         "value": 2
+      },
+      {
+         "source": "The science of science: From the perspective of complex systems",
+         "target": "Y. Wang",
+         "value": 2
+      },
+      {
+         "source": "The science of science: From the perspective of complex systems",
+         "target": "H. E. Stanley",
+         "value": 2
+      },
+      {
+         "source": "M.E.J. Newman, \"Finding community structure in networks using the eigenvectors of matrices.\" Phys. Rev. E 74, 036104 (2006). ",
+         "target": "Multiplex Influence Maximization in Online Social Networks with Heterogeneous Diffusion Models",
+         "value": 1
+      },
+      {
+         "source": "M.E.J. Newman, \"Finding community structure in networks using the eigenvectors of matrices.\" Phys. Rev. E 74, 036104 (2006). ",
+         "target": "Geometry of Complex Networks and Topological Centrality",
+         "value": 1
+      },
+      {
+         "source": "Geometry of Complex Networks and Topological Centrality",
+         "target": "G. Ranjan",
+         "value": 2
+      },
+      {
+         "source": "Geometry of Complex Networks and Topological Centrality",
+         "target": "Z. Zhang",
+         "value": 2
+      },
+      {
+         "source": "M. E. J. Newman, \"Finding community structure in networks using the eigenvectors of matrices.\" Phys. Rev. E 74, 036104 (2006). arxiv:physics/0605087 ",
+         "target": "Multiplex Influence Maximization in Online Social Networks with Heterogeneous Diffusion Models",
+         "value": 1
+      },
+      {
+         "source": "M. Girvan and M. E. J. Newman, \"Community structure in social and biological networks.\" Proc. Natl. Acad. Sci. USA 99(12), 7821-7826 (2002). arxiv:cond-mat/0112110 ",
+         "target": "Dynamic Social Community Detection and Its Applications",
+         "value": 1
+      },
+      {
+         "source": "Dynamic Social Community Detection and Its Applications",
+         "target": "N. P. Nguyen",
+         "value": 2
+      },
+      {
+         "source": "Dynamic Social Community Detection and Its Applications",
+         "target": "T. N. Dinh",
+         "value": 2
+      },
+      {
+         "source": "Dynamic Social Community Detection and Its Applications",
+         "target": "Y. Shen",
+         "value": 2
+      },
+      {
+         "source": "Dynamic Social Community Detection and Its Applications",
+         "target": "M. T. Thai",
+         "value": 2
+      },
+      {
+         "source": "M. Girvan and M. E. J. Newman, \"Community structure in social and biological networks.\" Proc. Natl. Acad. Sci. USA 99(12), 7821-7826 (2002). arxiv:cond-mat/0112110 ",
+         "target": "Geographic Constraints on Social Network Groups",
+         "value": 1
+      },
+      {
+         "source": "Geographic Constraints on Social Network Groups",
+         "target": "J. Onnela",
+         "value": 2
+      },
+      {
+         "source": "Geographic Constraints on Social Network Groups",
+         "target": "S. Arbesman",
+         "value": 2
+      },
+      {
+         "source": "Geographic Constraints on Social Network Groups",
+         "target": "M. C. Gonz\u00e1lez",
+         "value": 2
+      },
+      {
+         "source": "Geographic Constraints on Social Network Groups",
+         "target": "A. Barab\u00e1si",
+         "value": 2
+      },
+      {
+         "source": "Geographic Constraints on Social Network Groups",
+         "target": "N. A. Christakis",
+         "value": 2
+      },
+      {
+         "source": "M. Girvan and M. E. J. Newman, \"Community structure in social and biological networks.\" Proc. Natl. Acad. Sci. USA 99(12), 7821-7826 (2002). arxiv:cond-mat/0112110 ",
+         "target": "Ranking stability and super-stable nodes in complex networks",
+         "value": 1
+      },
+      {
+         "source": "Ranking stability and super-stable nodes in complex networks",
+         "target": "G. Ghoshal",
+         "value": 2
+      },
+      {
+         "source": "M. Girvan and M. E. J. Newman, \"Community structure in social and biological networks.\" Proc. Natl. Acad. Sci. USA 99(12), 7821-7826 (2002). arxiv:cond-mat/0112110 ",
+         "target": "Community Detection in Scale-Free Networks: Approximation Algorithms for Maximizing Modularity",
+         "value": 1
+      },
+      {
+         "source": "Community Detection in Scale-Free Networks: Approximation Algorithms for Maximizing Modularity",
+         "target": "T. N. Dinh",
+         "value": 2
+      },
+      {
+         "source": "M. Girvan and M. E. J. Newman, \"Community structure in social and biological networks.\" Proc. Natl. Acad. Sci. USA 99(12), 7821-7826 (2002). arxiv:cond-mat/0112110 ",
+         "target": "Resilience of networks with community structure behaves as if under an external field",
+         "value": 1
+      },
+      {
+         "source": "Resilience of networks with community structure behaves as if under an external field",
+         "target": "G. Dong",
+         "value": 2
+      },
+      {
+         "source": "Resilience of networks with community structure behaves as if under an external field",
+         "target": "J. Fan",
+         "value": 2
+      },
+      {
+         "source": "Resilience of networks with community structure behaves as if under an external field",
+         "target": "L. M. Shekhtman",
+         "value": 2
+      },
+      {
+         "source": "Resilience of networks with community structure behaves as if under an external field",
+         "target": "S. Shai",
+         "value": 2
+      },
+      {
+         "source": "Resilience of networks with community structure behaves as if under an external field",
+         "target": "R. Du",
+         "value": 2
+      },
+      {
+         "source": "Resilience of networks with community structure behaves as if under an external field",
+         "target": "L. Tian",
+         "value": 2
+      },
+      {
+         "source": "Resilience of networks with community structure behaves as if under an external field",
+         "target": "X. Chen",
+         "value": 2
+      },
+      {
+         "source": "Resilience of networks with community structure behaves as if under an external field",
+         "target": "H. E. Stanley",
+         "value": 2
+      },
+      {
+         "source": "Resilience of networks with community structure behaves as if under an external field",
+         "target": "S. Havlin",
+         "value": 2
+      },
+      {
+         "source": "Resilience of networks with community structure behaves as if under an external field",
+         "target": "I. M. Sokolov",
+         "value": 2
+      },
+      {
+         "source": "A. Chaintreau et al. \u201cImpact of human mobility on opportunistic forwarding algorithms.\u201d IEEE Trans. on Mobile Computing 6(6), 606-620 (2007). ",
+         "target": "Dynamic Social Community Detection and Its Applications",
+         "value": 1
+      },
+      {
+         "source": "N. Eagle & A. Pentland, \"Reality mining: sensing complex social systems.\" Personal and Ubiquitous Computing 10(4), 255-268 (2006). ",
+         "target": "Dynamic Social Community Detection and Its Applications",
+         "value": 1
+      },
+      {
+         "source": "H. Jeong et al. \"The large-scale organization of metabolic networks.\" Nature 407, 651-654 (2000). ",
+         "target": "Emergence of bimodality in controlling complex networks",
+         "value": 1
+      },
+      {
+         "source": "Emergence of bimodality in controlling complex networks",
+         "target": "T. Jia",
+         "value": 2
+      },
+      {
+         "source": "Emergence of bimodality in controlling complex networks",
+         "target": "Y. Liu",
+         "value": 2
+      },
+      {
+         "source": "Emergence of bimodality in controlling complex networks",
+         "target": "E. Cs\u00f3ka",
+         "value": 2
+      },
+      {
+         "source": "Emergence of bimodality in controlling complex networks",
+         "target": "M. P\u00f3sfai",
+         "value": 2
+      },
+      {
+         "source": "Emergence of bimodality in controlling complex networks",
+         "target": "J. Slotine",
+         "value": 2
+      },
+      {
+         "source": "Emergence of bimodality in controlling complex networks",
+         "target": "A. Barab\u00e1si",
+         "value": 2
+      },
+      {
+         "source": "M.A.J. Van Duijn et al. \"Evolution of sociology freshmen into a friendship network.\" J. Mathematical Sociology 27(2-3), 153-191 (2003) ",
+         "target": "Emergence of bimodality in controlling complex networks",
+         "value": 1
+      },
+      {
+         "source": "D.J. Felleman and D.C. van Essen, \"Distributed hierarchical processing in the primate cerebral cortex.\" Cerebral Cortex 1(1), 1-47 (1991). ",
+         "target": "A Predictive Network Model of Cerebral Cortical Connectivity Based on a Distance Rule",
+         "value": 1
+      },
+      {
+         "source": "A Predictive Network Model of Cerebral Cortical Connectivity Based on a Distance Rule",
+         "target": "M. Ercsey-ravasz",
+         "value": 2
+      },
+      {
+         "source": "A Predictive Network Model of Cerebral Cortical Connectivity Based on a Distance Rule",
+         "target": "N. T. Markov",
+         "value": 2
+      },
+      {
+         "source": "A Predictive Network Model of Cerebral Cortical Connectivity Based on a Distance Rule",
+         "target": "C. Lamy",
+         "value": 2
+      },
+      {
+         "source": "A Predictive Network Model of Cerebral Cortical Connectivity Based on a Distance Rule",
+         "target": "D. C. V. Essen",
+         "value": 2
+      },
+      {
+         "source": "A Predictive Network Model of Cerebral Cortical Connectivity Based on a Distance Rule",
+         "target": "K. Knoblauch",
+         "value": 2
+      },
+      {
+         "source": "A Predictive Network Model of Cerebral Cortical Connectivity Based on a Distance Rule",
+         "target": "Z. Toroczkai",
+         "value": 2
+      },
+      {
+         "source": "A Predictive Network Model of Cerebral Cortical Connectivity Based on a Distance Rule",
+         "target": "H. Kennedy",
+         "value": 2
+      },
+      {
+         "source": "D.J. Felleman and D.C. van Essen, \"Distributed hierarchical processing in the primate cerebral cortex.\" Cerebral Cortex 1(1), 1-47 (1991). ",
+         "target": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "value": 1
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "N. T. Markov",
+         "value": 2
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "M. Ercsey-ravasz",
+         "value": 2
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "C. Lamy",
+         "value": 2
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "A. R. R. Gomes",
+         "value": 2
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "L. Magrou",
+         "value": 2
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "P. Misery",
+         "value": 2
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "P. Giroud",
+         "value": 2
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "P. Barone",
+         "value": 2
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "C. Dehay",
+         "value": 2
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "Z. Toroczkai",
+         "value": 2
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "K. Knoblauch",
+         "value": 2
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "D. C. V. Essen",
+         "value": 2
+      },
+      {
+         "source": "The role of long-range connections on the specificity of the macaque interareal cortical network",
+         "target": "H. Kennedy",
+         "value": 2
+      },
+      {
+         "source": "D.J. Felleman and D.C. van Essen, \"Distributed hierarchical processing in the primate cerebral cortex.\" Cerebral Cortex 1(1), 1-47 (1991). ",
+         "target": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "value": 1
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "N. T. Markov",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "M. M. Ercsey-ravasz",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "A. R. R. Gomes",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "C. Lamy",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "L. Magrou",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "J. Vezoli",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "P. Misery",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "A. Falchier",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "R. Quilodran",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "M. A. Gariel",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "J. Sallet",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "R. Gamanut",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "C. Huissoud",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "S. Clavagnier",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "P. Giroud",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "D. Sappey-marinier",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "P. Barone",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "C. Dehay",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "Z. Toroczkai",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "K. Knoblauch",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "D. C. V. Essen",
+         "value": 2
+      },
+      {
+         "source": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "target": "H. Kennedy",
+         "value": 2
+      },
+      {
+         "source": "C.J. Honey, R. Kotter, M. Breakspear, and O. Sporns, \"Network structure of cerebral cortex shapes functional connectivity on multiple time scales.\" Proc. Natl. Acad. Sci. USA 104(24), 10240-10245 (2007). ",
+         "target": "A Predictive Network Model of Cerebral Cortical Connectivity Based on a Distance Rule",
+         "value": 1
+      },
+      {
+         "source": "N.T. Markov et al., \"The role of long-range connections on the specificity of the macaque interareal cortical network.\" Proc. Natl. Acad. Sci. USA 110(13), 5187-5192 (2013). ",
+         "target": "A Predictive Network Model of Cerebral Cortical Connectivity Based on a Distance Rule",
+         "value": 1
+      },
+      {
+         "source": "A.-L. Barabasi and R. Albert, \"Emergence of Scaling in Random Networks.\" Science 286, 509-512 (1999). ",
+         "target": "Preferential Attachment in the Interaction between Dynamically Generated Interdependent Networks",
+         "value": 1
+      },
+      {
+         "source": "Preferential Attachment in the Interaction between Dynamically Generated Interdependent Networks",
+         "target": "B. Podobnik",
+         "value": 2
+      },
+      {
+         "source": "Preferential Attachment in the Interaction between Dynamically Generated Interdependent Networks",
+         "target": "D. Horvati\u0107",
+         "value": 2
+      },
+      {
+         "source": "Preferential Attachment in the Interaction between Dynamically Generated Interdependent Networks",
+         "target": "M. Dickison",
+         "value": 2
+      },
+      {
+         "source": "L. Isella et al., \"What\u2019s in a crowd? Analysis of face-to-face behavioral networks.\" J. Theor. Bio. 271, 166-180 (2011). ",
+         "target": "SOCIAL DISTANCING STRATEGIES AGAINST DISEASE SPREADING",
+         "value": 1
+      },
+      {
+         "source": "SOCIAL DISTANCING STRATEGIES AGAINST DISEASE SPREADING",
+         "target": "L. D. Valdez",
+         "value": 2
+      },
+      {
+         "source": "SOCIAL DISTANCING STRATEGIES AGAINST DISEASE SPREADING",
+         "target": "C. Buono",
+         "value": 2
+      },
+      {
+         "source": "SOCIAL DISTANCING STRATEGIES AGAINST DISEASE SPREADING",
+         "target": "P. A. Macri",
+         "value": 2
+      },
+      {
+         "source": "SOCIAL DISTANCING STRATEGIES AGAINST DISEASE SPREADING",
+         "target": "L. A. Braunstein",
+         "value": 2
+      },
+      {
+         "source": "A. Clauset, S. Arbesman, and D. B. Larremore, \"Systematic inequality and hierarchy in faculty hiring networks.\" Science Advances 1(1), e1400005 (2015). ",
+         "target": "The science of science: From the perspective of complex systems",
+         "value": 1
+      },
+      {
+         "source": "C.R. Myers, \"Software systems as complex networks: Structure, function, and evolvability of software collaboration graphs.\" Physical Review E 68, 046116 \udbff\udc09(2003\udbff\udc00) ",
+         "target": "The science of science: From the perspective of complex systems",
+         "value": 1
+      },
+      {
+         "source": "L. \u0160ubelj, & M. Bajec, \"Community structure of complex software systems: Analysis and applications.\" Physica A 390(16), 2968-2975 (2011) ",
+         "target": "The science of science: From the perspective of complex systems",
+         "value": 1
+      },
+      {
+         "source": "M. De Domenico et al. \"Structural reducibility of multilayer networks\". Nature Communications 6, 6864 (2015) ",
+         "target": "The science of science: From the perspective of complex systems",
+         "value": 1
+      },
+      {
+         "source": "M. De Domenico, V. Nicosia, A. Arenas and V. Latora, \"Structural reducibility of multilayer networks\". Nature Communications 6, 6864 (2015) ",
+         "target": "The science of science: From the perspective of complex systems",
+         "value": 1
+      },
+      {
+         "source": "K. I. Goh et al. \"The human disease network.\" Proc. Natl. Acad. Sci. USA 104(21), 8685-8690 (2007). ",
+         "target": "Discovering disease-associated genes in weighted protein\u2013protein interaction networks",
+         "value": 1
+      },
+      {
+         "source": "Discovering disease-associated genes in weighted protein\u2013protein interaction networks",
+         "target": "Y. Cui",
+         "value": 2
+      },
+      {
+         "source": "Discovering disease-associated genes in weighted protein\u2013protein interaction networks",
+         "target": "M. Cai",
+         "value": 2
+      },
+      {
+         "source": "Discovering disease-associated genes in weighted protein\u2013protein interaction networks",
+         "target": "H. E. Stanley",
+         "value": 2
+      },
+      {
+         "source": "D. A. Smith, & D. R. White, \"Structure and dynamics of the global economy: network analysis of international trade 1965-1980.\" Social forces 70(4), 857-893 (1992). ",
+         "target": "Spatial correlation analysis of cascading failures: Congestions and Blackouts",
+         "value": 1
+      },
+      {
+         "source": "Spatial correlation analysis of cascading failures: Congestions and Blackouts",
+         "target": "S. Havlin",
+         "value": 2
+      },
+      {
+         "source": "Manlio De Domenico, Albert Sol\u00e9-Ribalta, Sergio G\u00f3mez, and Alex Arenas, \"Navigability of interconnected networks under random failures.\" PNAS 111, 8351-8356 (2014) ",
+         "target": "IoT network resilience: Methodology and example of assessment through epidemic spreading approach",
+         "value": 1
+      },
+      {
+         "source": "IoT network resilience: Methodology and example of assessment through epidemic spreading approach",
+         "target": "E. Bellini",
+         "value": 2
+      },
+      {
+         "source": "IoT network resilience: Methodology and example of assessment through epidemic spreading approach",
+         "target": "F. Bagnoli",
+         "value": 2
+      },
+      {
+         "source": "IoT network resilience: Methodology and example of assessment through epidemic spreading approach",
+         "target": "E. Massaro",
+         "value": 2
+      },
+      {
+         "source": "IoT network resilience: Methodology and example of assessment through epidemic spreading approach",
+         "target": "A. Ganin",
+         "value": 2
+      },
+      {
+         "source": "IoT network resilience: Methodology and example of assessment through epidemic spreading approach",
+         "target": "I. Linkov",
+         "value": 2
+      },
+      {
+         "source": "R. Kotter, \"Online retrieval, processing, and visualization of primate connectivity data from the CoCoMac database.\" Neuroinformatics 2, 127-144 (2004) ",
+         "target": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "value": 1
+      },
+      {
+         "source": "M.P. Young, \"The organization of neural systems in the primate cerebral cortex.\" Proc. R. Soc. London B 252,13-18 (1993) ",
+         "target": "AWeighted and Directed Interareal Connectivity Matrix for Macaque Cerebral Cortex",
+         "value": 1
+      },
+      {
+         "source": "W. W. Zachary, \"An information flow model for conflict and fission in small groups.\" Journal of Anthropological Research 33, 452-473 (1977). ",
+         "target": "Diffusion in Networks: Source Localization, History Reconstruction and Real-Time Network Robustification by",
+         "value": 1
+      },
+      {
+         "source": "Diffusion in Networks: Source Localization, History Reconstruction and Real-Time Network Robustification by",
+         "target": "Z. Chen",
+         "value": 2
+      },
+      {
+         "source": "Diffusion in Networks: Source Localization, History Reconstruction and Real-Time Network Robustification by",
+         "target": "J. He",
+         "value": 2
+      },
+      {
+         "source": "Diffusion in Networks: Source Localization, History Reconstruction and Real-Time Network Robustification by",
+         "target": "J. Zhang",
+         "value": 2
+      },
+      {
+         "source": "W. W. Zachary, \"An information flow model for conflict and fission in small groups.\" Journal of Anthropological Research 33, 452-473 (1977). ",
+         "target": "Power iteration ranking via hybrid diffusion for vital nodes identification",
+         "value": 1
+      },
+      {
+         "source": "Power iteration ranking via hybrid diffusion for vital nodes identification",
+         "target": "T. Wu",
+         "value": 2
+      },
+      {
+         "source": "Power iteration ranking via hybrid diffusion for vital nodes identification",
+         "target": "X. Xian",
+         "value": 2
+      },
+      {
+         "source": "Power iteration ranking via hybrid diffusion for vital nodes identification",
+         "target": "L. Zhong",
+         "value": 2
+      },
+      {
+         "source": "Power iteration ranking via hybrid diffusion for vital nodes identification",
+         "target": "X. Xiong",
+         "value": 2
+      },
+      {
+         "source": "Power iteration ranking via hybrid diffusion for vital nodes identification",
+         "target": "H. E. Stanley",
+         "value": 2
+      },
+      {
+         "source": "J. Leskovec, L. Adamic and B. Adamic. \"The Dynamics of Viral Marketing.\" ACM Transactions on the Web (ACM TWEB), 1 (2007) ",
+         "target": "Failure and recovery in dynamical networks",
+         "value": 1
+      },
+      {
+         "source": "Failure and recovery in dynamical networks",
+         "target": "L. B\u00f6ttcher",
+         "value": 2
+      },
+      {
+         "source": "Failure and recovery in dynamical networks",
+         "target": "M. Lukovi\u0107",
+         "value": 2
+      },
+      {
+         "source": "Failure and recovery in dynamical networks",
+         "target": "J. Nagler",
+         "value": 2
+      },
+      {
+         "source": "Failure and recovery in dynamical networks",
+         "target": "S. Havlin",
+         "value": 2
+      },
+      {
+         "source": "Failure and recovery in dynamical networks",
+         "target": "H. J. Herrmann",
+         "value": 2
+      },
+      {
+         "source": "J. Leskovec, L. Adamic and B. Adamic. \"The Dynamics of Viral Marketing.\" ACM Transactions on the Web (ACM TWEB), 1 (2007) ",
+         "target": "Finding Critical Nodes for Inhibiting Diffusion of Complex Contagions in Social Networks",
+         "value": 1
+      },
+      {
+         "source": "Finding Critical Nodes for Inhibiting Diffusion of Complex Contagions in Social Networks",
+         "target": "C. J. Kuhlman",
+         "value": 2
+      },
+      {
+         "source": "Finding Critical Nodes for Inhibiting Diffusion of Complex Contagions in Social Networks",
+         "target": "V. A. Kumar",
+         "value": 2
+      },
+      {
+         "source": "Finding Critical Nodes for Inhibiting Diffusion of Complex Contagions in Social Networks",
+         "target": "M. V. Marathe",
+         "value": 2
+      },
+      {
+         "source": "Finding Critical Nodes for Inhibiting Diffusion of Complex Contagions in Social Networks",
+         "target": "S. Ravi",
+         "value": 2
+      },
+      {
+         "source": "Finding Critical Nodes for Inhibiting Diffusion of Complex Contagions in Social Networks",
+         "target": "D. J. Rosenkrantz",
+         "value": 2
+      },
+      {
+         "source": "V. Asal, and R. Karl Rethemeyer, \u201cThe Nature of the Beast: Organizational Structures and the Lethality of Terrorist Attacks.\u201d The Journal of Politics 70(2), 437-449 (2008) ",
+         "target": "When Terrorists Go Bad: Analyzing Terrorist Organizations\u2019 Involvement in Drug Smuggling*",
+         "value": 1
+      },
+      {
+         "source": "When Terrorists Go Bad: Analyzing Terrorist Organizations\u2019 Involvement in Drug Smuggling*",
+         "target": "V. Asal",
+         "value": 2
+      },
+      {
+         "source": "When Terrorists Go Bad: Analyzing Terrorist Organizations\u2019 Involvement in Drug Smuggling*",
+         "target": "E. W. Schoon",
+         "value": 2
+      },
+      {
+         "source": "R. Albert, H. Jeong, and A.-L. Barabasi. \"Diameter of the World-Wide Web.\" Nature 401, 130 (1999). ",
+         "target": "Controlling opinion propagation in online networks",
+         "value": 1
+      },
+      {
+         "source": "Controlling opinion propagation in online networks",
+         "target": "A. Kumar",
+         "value": 2
+      },
+      {
+         "source": "Controlling opinion propagation in online networks",
+         "target": "C. J. Kuhlman",
+         "value": 2
+      },
+      {
+         "source": "V. Krebs, \"Mapping networks of terrorist cells.\" Connections 24, 43-52 (2002). ",
+         "target": "Comparative configurational analysis as a two-mode network problem: A study of terrorist group engagement in the drug trade",
+         "value": 1
+      },
+      {
+         "source": "Comparative configurational analysis as a two-mode network problem: A study of terrorist group engagement in the drug trade",
+         "target": "o. L. Breigera",
+         "value": 2
+      },
+      {
+         "source": "Comparative configurational analysis as a two-mode network problem: A study of terrorist group engagement in the drug trade",
+         "target": "E. Schoona",
+         "value": 2
+      },
+      {
+         "source": "Comparative configurational analysis as a two-mode network problem: A study of terrorist group engagement in the drug trade",
+         "target": "D. Melamedb",
+         "value": 2
+      },
+      {
+         "source": "Comparative configurational analysis as a two-mode network problem: A study of terrorist group engagement in the drug trade",
+         "target": "V. Asalc",
+         "value": 2
+      },
+      {
+         "source": "Comparative configurational analysis as a two-mode network problem: A study of terrorist group engagement in the drug trade",
+         "target": "R. K. Rethemeyerd",
+         "value": 2
+      },
+      {
+         "source": "J.-P. Onnela et al., \"Dynamics of market correlations: Taxonomy and portfolio analysis.\" Phys. Rev. E 68, 056110 (2003) ",
+         "target": "Stock market as temporal network",
+         "value": 1
+      },
+      {
+         "source": "Stock market as temporal network",
+         "target": "L. Zhao",
+         "value": 2
+      },
+      {
+         "source": "Stock market as temporal network",
+         "target": "G. Wang",
+         "value": 2
+      },
+      {
+         "source": "Stock market as temporal network",
+         "target": "M. Wang",
+         "value": 2
+      },
+      {
+         "source": "Stock market as temporal network",
+         "target": "W. Bao",
+         "value": 2
+      },
+      {
+         "source": "Stock market as temporal network",
+         "target": "W. Li",
+         "value": 2
+      },
+      {
+         "source": "Stock market as temporal network",
+         "target": "H. E. Stanley",
+         "value": 2
+      },
+      {
+         "source": "R. Cross and A. Parker, \"The Hidden Power of Social Networks.\" Harvard Business School Press (2004). ",
+         "target": "Control Centrality and Hierarchical Structure in Complex Networks",
+         "value": 1
+      },
+      {
+         "source": "V. Colizza, R. Pastor-Satorras and A. Vespignani, \"Reaction-diffusion processes and metapopulation models in heterogeneous networks.\" Nature Physics 3, 276-282 (2007) ",
+         "target": "Ranking stability and super-stable nodes in complex networks",
+         "value": 1
+      },
+      {
+         "source": "B. Zhang et al., \"Collecting the Internet AS-level topology.\" SIGCOMM Computer Communication Review 35(1), 53-61 (2005) ",
+         "target": "Power iteration ranking via hybrid diffusion for vital nodes identification",
+         "value": 1
+      },
+      {
+         "source": "T. Ito et al., \"A comprehensive two-hybrid analysis to explore the yeast protein interactome.\" Proc. Natl. Acad. Sci. USA. 98(8), 4569-4574 (2001). ",
+         "target": "Feature selection with interactions in logistic regression models using multivariate synergies for a GWAS application",
+         "value": 1
+      },
+      {
+         "source": "Feature selection with interactions in logistic regression models using multivariate synergies for a GWAS application",
+         "target": "E. L. Xu",
+         "value": 2
+      },
+      {
+         "source": "Feature selection with interactions in logistic regression models using multivariate synergies for a GWAS application",
+         "target": "X. Qian",
+         "value": 2
+      },
+      {
+         "source": "Feature selection with interactions in logistic regression models using multivariate synergies for a GWAS application",
+         "target": "Q. Yu",
+         "value": 2
+      },
+      {
+         "source": "Feature selection with interactions in logistic regression models using multivariate synergies for a GWAS application",
+         "target": "H. Zhang",
+         "value": 2
+      },
+      {
+         "source": "Feature selection with interactions in logistic regression models using multivariate synergies for a GWAS application",
+         "target": "S. Cui",
+         "value": 2
+      },
+      {
+         "source": "O. Jahn, et al., \"System-optimal routing of traffic flows with user constraints in networks with congestion.\" Operations Research 53(4), 600-616 (2005). ",
+         "target": "Algorithms for an Integer Multicommodity Network Flow Problem with Node Reliability Considerations",
+         "value": 1
+      },
+      {
+         "source": "Algorithms for an Integer Multicommodity Network Flow Problem with Node Reliability Considerations",
+         "target": "B. Tadayon",
+         "value": 2
+      },
+      {
+         "source": "Algorithms for an Integer Multicommodity Network Flow Problem with Node Reliability Considerations",
+         "target": "J. C. Smith",
+         "value": 2
+      },
+      {
+         "source": "S. Borgatti & M. Everett, \"Models of core/periphery structures.\" Social Networks 21, 375\u2013395 (1999) ",
+         "target": "Uncovering the Nucleus of Social Networks",
+         "value": 1
+      },
+      {
+         "source": "Uncovering the Nucleus of Social Networks",
+         "target": "B. Dumba",
+         "value": 2
+      },
+      {
+         "source": "Uncovering the Nucleus of Social Networks",
+         "target": "Z. Zhang",
+         "value": 2
+      },
+      {
+         "source": "N. Blagus, L. \u0160ubelj, & M. Bajec, \"Self-similar scaling of density in complex real-world networks.\" Physica A: Statistical Mechanics and its Applications 391(8), 2794-2802 (2012). ",
+         "target": "Growth dominates choice in network percolation",
+         "value": 1
+      },
+      {
+         "source": "Growth dominates choice in network percolation",
+         "target": "V. S. Vijayaraghavan",
+         "value": 2
+      },
+      {
+         "source": "Growth dominates choice in network percolation",
+         "target": "P. No\u00ebl",
+         "value": 2
+      },
+      {
+         "source": "Growth dominates choice in network percolation",
+         "target": "A. Waagen",
+         "value": 2
+      },
+      {
+         "source": "Growth dominates choice in network percolation",
+         "target": "R. M. D\u2019souza",
+         "value": 2
+      },
+      {
+         "source": "J. Tang, et al. \"Arnetminer: extraction and mining of academic social networks.\" Proc. 14th ACM SIGKDD Internat. Conf. on Knowledge Disc. and Data Mining (2008) ",
+         "target": "HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection",
+         "value": 1
+      },
+      {
+         "source": "HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection",
+         "target": "S. Zhang",
+         "value": 2
+      },
+      {
+         "source": "HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection",
+         "target": "D. Zhou",
+         "value": 2
+      },
+      {
+         "source": "HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection",
+         "target": "M. Y. Yildirim",
+         "value": 2
+      },
+      {
+         "source": "HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection",
+         "target": "S. Alcorn",
+         "value": 2
+      },
+      {
+         "source": "HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection",
+         "target": "J. He",
+         "value": 2
+      },
+      {
+         "source": "HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection",
+         "target": "H. Davulcu",
+         "value": 2
+      },
+      {
+         "source": "HiDDen: Hierarchical Dense Subgraph Detection with Application to Financial Fraud Detection",
+         "target": "H. Tong",
+         "value": 2
+      },
+      {
+         "source": "S. Knight, et al. \"The Internet Topology Zoo.\" IEEE Journal on Selected Areas in Communications 29(9), 1765-1775 (2011) ",
+         "target": "Multi-universality and localized attacks in spatially embedded networks",
+         "value": 1
+      },
+      {
+         "source": "Multi-universality and localized attacks in spatially embedded networks",
+         "target": "B. Gross",
+         "value": 2
+      },
+      {
+         "source": "Multi-universality and localized attacks in spatially embedded networks",
+         "target": "D. Vaknin",
+         "value": 2
+      },
+      {
+         "source": "Multi-universality and localized attacks in spatially embedded networks",
+         "target": "M. M. Danziger",
+         "value": 2
+      },
+      {
+         "source": "Multi-universality and localized attacks in spatially embedded networks",
+         "target": "S. Havlin",
+         "value": 2
+      },
+      {
+         "source": "P. Massa, M. Salvetti, and D. Tomasoni. \"Bowling alone and trust decline in social network sites.\" Dependable, Autonomic and Secure Computing, 2009. DASC'09. Eighth IEEE International Conference on. (2009). ",
+         "target": "Promoting information spreading by using contact memory",
+         "value": 1
+      },
+      {
+         "source": "Promoting information spreading by using contact memory",
+         "target": "L. Gao",
+         "value": 2
+      },
+      {
+         "source": "Promoting information spreading by using contact memory",
+         "target": "W. Wang",
+         "value": 2
+      },
+      {
+         "source": "Promoting information spreading by using contact memory",
+         "target": "2(a",
+         "value": 2
+      },
+      {
+         "source": "Promoting information spreading by using contact memory",
+         "target": "P. Shu3(b",
+         "value": 2
+      },
+      {
+         "source": "Promoting information spreading by using contact memory",
+         "target": "H. Gao",
+         "value": 2
+      },
+      {
+         "source": "Promoting information spreading by using contact memory",
+         "target": "L. A. Braunstein",
+         "value": 2
+      },
+      {
+         "source": "Alessio Cardillo, Jes\u00fas G\u00f3mez-Gardenes, Massimiliano Zanin, Miguel Romance, David Papo, Francisco del Pozo and Stefano Boccaletti. \"Emergence of network features from multiplexity.\" Scientific Reports 3, Article number: 1344 doi:10.1038/srep01344 ",
+         "target": "Epidemics in Partially Overlapped Multiplex Networks",
+         "value": 1
+      }
+   ]
+}
