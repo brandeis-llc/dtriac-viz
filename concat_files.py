@@ -1,7 +1,7 @@
 from os.path import join as pjoin
 
 
-with open('dtra_data/d.txt', 'r') as fd:
+with open('index_files/dtra_ids.txt', 'r') as fd:
     doc_ids = [line.strip() for line in fd]
 
 
