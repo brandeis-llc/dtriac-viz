@@ -46,6 +46,3 @@ if __name__ == "__main__":
     all_documents.extend(load_dtra_docs())
     all_documents.extend(load_wiki_docs())
     train(all_documents, 200, "wiki_dtra_doc2vec")
-    # model = Doc2Vec.load("wiki_doc2vec")
-    # print(len(model.docvecs))
-    # print(model.docvecs['1000559'])

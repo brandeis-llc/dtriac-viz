@@ -23,5 +23,5 @@ def export_es_data(es, out_dir, index_name, field):
 
 if __name__ == "__main__":
     es = Elasticsearch("http://tarski.cs-i.brandeis.edu:9200/")
-    export_es_data(es, out_dir='wiki_data', index_name='enwiki-nuke_tech', field='opening_text')
-    export_es_data(es, out_dir='dtra_data', index_name='dtriac-19d', field='text')
+    # export_es_data(es, out_dir='wiki_data', index_name='enwiki-nuke_tech', field='opening_text')
+    export_es_data(es, out_dir='../dtra_data_n', index_name='dtriac-19d', field='text')
