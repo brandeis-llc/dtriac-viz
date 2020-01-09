@@ -9,7 +9,7 @@ parser.add_argument("-v", "--verbose", help="show original results documents", a
 args = parser.parse_args()
 
 
-def get_most_similar_documents(doc2vec, query, use_id, topn=10, wiki_only=True):
+def get_most_similar_documents(doc2vec, query, use_id, topn=5, wiki_only=True):
     if use_id:
         query_vec = doc2vec.docvecs[query]
     else:
