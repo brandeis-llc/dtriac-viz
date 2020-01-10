@@ -8,6 +8,7 @@ import numpy as np
 from torch.utils.data import DataLoader
 from torchvision import datasets
 import math
+from tqdm import tqdm
 from torch.autograd import Variable
 from PIL import Image
 
@@ -65,7 +66,7 @@ def apply_pretrained(model, data, count=math.inf):
     '''
     res = []
     paths = []
-    for i, d in enumerate(data):
+    for i, d in tqdm(enumerate(data)):
         data = d[0]
         path = d[2]
         if (i > count):
@@ -87,7 +88,7 @@ if __name__ == '__main__':
     parser.add_argument('--output', action="store", dest="output",
                         help="location to store the output pickle")
     parser.add_argument('--data-count', action="store", dest="inst_count",
-                        help="number of instances to use for cluster training")
+                        default=math.inf, help="number of instances to use for cluster training")
 
     parser.add_argument('--data-store', action="store", dest="data_embed",
                         help='If this param is used, data and model are ignored,'
@@ -105,7 +106,7 @@ if __name__ == '__main__':
     res, paths = None, None
 
     if args.data_embed and os.path.isfile(args.data_embed):
-        res, paths = pickle.load(args.data_embed)
+        res, paths = pickle.load(open(args.data_embed, 'rb'))
     elif args.data and os.path.isdir(args.data):
         data = load_images(args.data)
         if args.model == "resnet50":
@@ -131,7 +132,7 @@ if __name__ == '__main__':
         from sklearn.cluster import KMeans
         import joblib
         print ("clustering...")
-        clustering = KMeans(n_clusters=50, random_state=11).fit(res)
+        clustering = KMeans(n_clusters=75, random_state=11).fit(res)
 
         print ("saving model...")
         joblib.dump(clustering, args.cluster_store)
