@@ -1,5 +1,15 @@
+import argparse
 from os.path import join as pjoin
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
+
+parser = argparse.ArgumentParser()
+parser.add_argument("dims", help="the dimension of the embeddings", type=int)
+parser.add_argument("-d", help="use dtra data", action="store_true")
+parser.add_argument("-w", help="use wiki data", action="store_true")
+parser.add_argument("out", help="output file name", type=str)
+
+
+args = parser.parse_args()
 
 
 def load_wiki_docs(data_dir='wiki_data'):
@@ -32,7 +42,7 @@ def train(docs, vector_size, out_file):
     model = Doc2Vec(docs,
                     dm=1,
                     vector_size=vector_size,
-                    window=4,
+                    window=5,
                     min_count=1,
                     epochs=40,
                     workers=4)
@@ -43,6 +53,11 @@ def train(docs, vector_size, out_file):
 
 if __name__ == "__main__":
     all_documents = []
-    all_documents.extend(load_dtra_docs())
-    all_documents.extend(load_wiki_docs())
-    train(all_documents, 200, "wiki_dtra_doc2vec")
+    if args.d:
+        all_documents.extend(load_dtra_docs())
+    elif args.w:
+        all_documents.extend(load_wiki_docs())
+    elif not all_documents:
+        raise ValueError("Use at least one source of data!")
+
+    train(all_documents, args.dims, args.out)
