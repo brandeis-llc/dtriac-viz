@@ -13,7 +13,7 @@ def export_es_data(es, out_dir, index_name, field):
     """
     index = helpers.scan(es, query={"query": {"match_all": {}}}, index=index_name)
     for i, doc in enumerate(index, 1):
-        with open(pjoin(out_dir, f"{doc['_id']}.txt"), 'w') as f:
+        with open(pjoin(out_dir, f"{doc['_source']['docid']}.txt"), 'w') as f:
             abstract = doc['_source'].get(field)
             if abstract:
                 f.write(abstract)
