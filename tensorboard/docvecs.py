@@ -15,7 +15,7 @@ def prep_docvecs(datadir):
     CONFIG = pjoin(datadir, 'projector_config.pbtxt')
 
     model = Doc2Vec.load(EMB)
-    DIM = len(model.docvecs['d000997'])
+    DIM = len(model.docvecs['d997'])
     SIZE = len(model.docvecs)
     vectors = numpy.zeros((SIZE, DIM))
 
@@ -23,10 +23,10 @@ def prep_docvecs(datadir):
     with open(CONFIG, 'w+') as config_f:
         config_f.write(f'embeddings {{ metadata_path: "{META_F}" }}\n')
     with open(META, 'w+') as meta_f:
-        meta_f.write("index\tname\tgroup\n")
+        meta_f.write("index\tname\tpdf\n")
         for i, docid in enumerate(model.docvecs.doctags):
             vectors[i] = model.docvecs[docid]
-            meta_f.write(f'{i}\t{docid}\t<a href="5">{random.sample(range(5),1)[0]}</a>\n')
+            meta_f.write(f'{i}\t{docid}\thttp://tarski.cs-i.brandeis.edu:8181/data/{docid[1:]}/pdf.pdf\n')
     return vectors
 
 
