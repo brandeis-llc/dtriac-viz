@@ -8,7 +8,7 @@ def create_ckpt(vectors, datadir, name):
     META_F = 'metadata.tsv'
     META = pjoin(datadir, META_F)
     SIZE, DIM = vectors.shape
-    X_init = tf.placeholder(tf.float32, shape=vectors.shape, name=f'name-{DIM}d')
+    X_init = tf.placeholder(tf.float32, shape=vectors.shape, name=f'{name}-{DIM}d')
     X = tf.Variable(X_init)
 
     init = tf.global_variables_initializer()
