@@ -1,0 +1,28 @@
+[
+  {
+    "Name [note 1]": "Mike",
+    "Date time (UT)": "October 31, 1952 19:14:59.4",
+    "Local time zone [note 2][6]": "MHT (11 hrs)",
+    "Location [note 3]": "Elugelab (Flora), Enewetak Atoll 11°39′57″N 162°11′21″E﻿ / ﻿11.66573°N 162.18928°E",
+    "Elevation + height [note 4]": "2 m (6 ft 7 in) + 8 m (26 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "dry surface,weapons development",
+    "Device [note 7]": "Sausage\" w/ TX-5 primary",
+    "Yield [note 8]": "10.4 Mt",
+    "Fallout [note 9]": "",
+    "References": "[7][8][9][10]",
+    "Notes": "Megaton (\"M\" as in Mike) device. First true experimental H-bomb, used cryogenic deuterium; became TX-16 weapon. Elugelab completely cratered."
+  },
+  {
+    "Name [note 1]": "King",
+    "Date time (UT)": "November 15, 1952 23:30:00.0",
+    "Local time zone [note 2][6]": "MHT (11 hrs)",
+    "Location [note 3]": "Runit (Yvonne), Enewetak Atoll 11°33′32″N 162°20′43″E﻿ / ﻿11.55878°N 162.34541°E",
+    "Elevation + height [note 4]": "0 + 450 m (1,480 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "free air drop,weapons development",
+    "Device [note 7]": "Mk-18F SOB",
+    "Yield [note 8]": "500 kt",
+    "Fallout [note 9]": "",
+    "References": "[7][8][9][10]",
+    "Notes": "Kiloton (\"K\" as in King) device. Aka Super oralloy bomb (SOB), used 4 critical masses of U235.  Largest pure fission device; also tested chain safety device."
+  }
+]

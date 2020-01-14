@@ -1,0 +1,54 @@
+[
+  {
+    "Name [note 1]": "Dog",
+    "Date time (UT)": "April 7, 1951 17:33:57.8",
+    "Local time zone [note 2][6]": "MHT (11 hrs)",
+    "Location [note 3]": "Runit (Yvonne), Enewetak Atoll 11°33′08″N 162°20′47″E﻿ / ﻿11.55234°N 162.34648°E",
+    "Elevation + height [note 4]": "2 m (6 ft 7 in) + 91 m (299 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "tower,weapons development",
+    "Device [note 7]": "Mk-6D",
+    "Yield [note 8]": "81 kt",
+    "Fallout [note 9]": "",
+    "References": "[7][8][9][10][11]",
+    "Notes": "Proof test of Mark 6, 60 point implosion. Hansen says \"north end of Runit\"."
+  },
+  {
+    "Name [note 1]": "Easy",
+    "Date time (UT)": "April 20, 1951 17:27:00.1",
+    "Local time zone [note 2][6]": "MHT (11 hrs)",
+    "Location [note 3]": "Enjebi (Janet), Enewetak Atoll 11°39′56″N 162°14′02″E﻿ / ﻿11.66543°N 162.23379°E",
+    "Elevation + height [note 4]": "2 m (6 ft 7 in) + 91 m (299 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "tower,weapon development and effects",
+    "Device [note 7]": "TX-5D",
+    "Yield [note 8]": "47 kt",
+    "Fallout [note 9]": "",
+    "References": "[7][8][9][10][11]",
+    "Notes": "Proof test of Mark 5, 92 point lense implosion system, used as the primary for Ivy Mike.  Mock buildings (homes, bunkers, factories) were assembled on Enjebi and Mujinkarikku Island. Hansen: \"west end of Engebi\"."
+  },
+  {
+    "Name [note 1]": "George",
+    "Date time (UT)": "May 8, 1951 20:30:00.7",
+    "Local time zone [note 2][6]": "MHT (11 hrs)",
+    "Location [note 3]": "Ebiriru (Ruby), Enewetak Atoll 11°37′37″N 162°17′47″E﻿ / ﻿11.62703°N 162.29626°E",
+    "Elevation + height [note 4]": "2 m (6 ft 7 in) + 62 m (203 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "tower,weapons development",
+    "Device [note 7]": "Cylinder",
+    "Yield [note 8]": "225 kt",
+    "Fallout [note 9]": "",
+    "References": "[7][8][9][10][11]",
+    "Notes": "Deuterium core,  proof test of staged thermonuclear design, but most yield from boosted fission."
+  },
+  {
+    "Name [note 1]": "Item",
+    "Date time (UT)": "May 24, 1951 17:16:59.3",
+    "Local time zone [note 2][6]": "MHT (11 hrs)",
+    "Location [note 3]": "Enjebi (Janet), Enewetak Atoll 11°39′58″N 162°14′33″E﻿ / ﻿11.66604°N 162.24254°E",
+    "Elevation + height [note 4]": "2 m (6 ft 7 in) + 62 m (203 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "tower,weapons development",
+    "Device [note 7]": "Booster",
+    "Yield [note 8]": "45.5 kt",
+    "Fallout [note 9]": "",
+    "References": "[7][8][10][11]",
+    "Notes": "First tritium boosted test."
+  }
+]

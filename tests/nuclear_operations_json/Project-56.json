@@ -1,0 +1,54 @@
+[
+  {
+    "Name [note 1]": 1,
+    "Date time (UT)": "November 1, 1955 22:10:??",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area 11a 36°59′04″N 115°57′41″W﻿ / ﻿36.98444°N 115.96151°W",
+    "Elevation + height [note 4]": "1,271 m (4,170 ft) + 0",
+    "Delivery [note 5]Purpose [note 6]": "dry surface,safety experiment",
+    "Device [note 7]": "TX-15/39 primary ?",
+    "Yield [note 8]": "no yield",
+    "Fallout [note 9]": "",
+    "References": "[1][5][6][7][8][9][10]",
+    "Notes": "One point safety test of sealed pit, successful.  Extra oralloy in the core and three zippers were used to make sure of a worst case condition in the pit for supporting fission, which would have been deemed a test failure."
+  },
+  {
+    "Name [note 1]": 2,
+    "Date time (UT)": "November 3, 1955 21:15:??",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area 11b 36°58′48″N 115°57′34″W﻿ / ﻿36.9801°N 115.9594°W",
+    "Elevation + height [note 4]": "1,263 m (4,144 ft) + 0",
+    "Delivery [note 5]Purpose [note 6]": "dry surface,safety experiment",
+    "Device [note 7]": "W-25",
+    "Yield [note 8]": "no yield",
+    "Fallout [note 9]": "",
+    "References": "[1][5][6][7][8][9][10]",
+    "Notes": "One point safety test of W-25 sealed pit, successful. 3 zippers used to make sure of plentiful neutrons."
+  },
+  {
+    "Name [note 1]": 3,
+    "Date time (UT)": "November 5, 1955 19:55:??",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area 11c 36°58′33″N 115°57′26″W﻿ / ﻿36.97572°N 115.95732°W",
+    "Elevation + height [note 4]": "1,260 m (4,130 ft) + 0",
+    "Delivery [note 5]Purpose [note 6]": "dry surface,safety experiment",
+    "Device [note 7]": "TX/W-28 primary",
+    "Yield [note 8]": "no yield",
+    "Fallout [note 9]": "",
+    "References": "[1][5][6][7][8][9][10]",
+    "Notes": "One point safety test of TX/W-28 primary, successful. 3 zippers used to make sure of plentiful neutrons."
+  },
+  {
+    "Name [note 1]": 4,
+    "Date time (UT)": "January 18, 1956 21:30:??",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area 11d 36°58′17″N 115°57′19″W﻿ / ﻿36.97135°N 115.95539°W",
+    "Elevation + height [note 4]": "1,252 m (4,108 ft) + 0",
+    "Delivery [note 5]Purpose [note 6]": "dry surface,safety experiment",
+    "Device [note 7]": "TX/W-28 primary",
+    "Yield [note 8]": "10 t",
+    "Fallout [note 9]": "",
+    "References": "[1][5][6][7][8][9][10]",
+    "Notes": "One point safety test partial failure, due to large neutron initiation (6 zippers) in what would otherwise have been a just-barely-critical device."
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "Name [note 1]": "Bravo",
+    "Date time (UT)": "February 28, 1954 18:45:00.0",
+    "Local time zone [note 2][9]": "MHT (11 hrs)",
+    "Location [note 3]": "Namu (Charlie), Bikini Atoll 11°41′50″N 165°16′29″E﻿ / ﻿11.69722°N 165.27486°E",
+    "Elevation + height [note 4]": "2 m (6 ft 7 in) + 2 m (6 ft 7 in)",
+    "Delivery,[note 5]purpose [note 6]": "dry surface,weapons development",
+    "Device [note 7]": "TX-21 \"Shrimp",
+    "Yield [note 8]": "15 Mt",
+    "Fallout [note 9]": "",
+    "References": "[10][11][12][13]",
+    "Notes": "Used a RACER IV primary. Over twice as powerful as predicted, error in assessing Li-7.  Lethal fallout, killed radioman on Japanese vessel Daigo Fukuryu Maru (Fifth Lucky Dragon); 1 fatality, 93+ injured. Design used in Mk-21/36. Largest US atmospheric detonation."
+  },
+  {
+    "Name [note 1]": "Romeo",
+    "Date time (UT)": "March 26, 1954 18:30:00.4",
+    "Local time zone [note 2][9]": "MHT (11 hrs)",
+    "Location [note 3]": "Yurochi aka Irioj (Dog), Bikini Atoll 11°41′39″N 165°15′55″E﻿ / ﻿11.69428°N 165.26519°E",
+    "Elevation + height [note 4]": "0 + 4.3 m (14 ft)",
+    "Delivery,[note 5]purpose [note 6]": "barge,weapons development",
+    "Device [note 7]": "TX/EC-17A \"Runt",
+    "Yield [note 8]": "11 Mt",
+    "Fallout [note 9]": "",
+    "References": "[10][11][12][13]",
+    "Notes": "Exceeded yield expectations, by almost a factor of 3. Proof test of the Mk-17, deployed as the EC-17."
+  },
+  {
+    "Name [note 1]": "Echo(canceled)",
+    "Date time (UT)": "March 29, 1954",
+    "Local time zone [note 2][9]": "MHT (11 hrs)",
+    "Location [note 3]": "Ebiriru (Ruby), Enewetak Atoll 11°37′11″N 162°17′39″E﻿ / ﻿11.61986°N 162.29403°E",
+    "Elevation + height [note 4]": "3 m (9.8 ft) +",
+    "Delivery,[note 5]purpose [note 6]": "barge,weapons development",
+    "Device [note 7]": "Cryo design \"ramrod",
+    "Yield [note 8]": "unknown yield",
+    "Fallout [note 9]": "",
+    "References": [
+      10
+    ],
+    "Notes": "Scheduled for Castle but not executed, location and time are as planned. It cancelled when the Bravo test was so unexpectedly successful, making cryogenic thermonuclear concepts obsolete."
+  },
+  {
+    "Name [note 1]": "Koon",
+    "Date time (UT)": "April 6, 1954 18:20:00.4",
+    "Local time zone [note 2][9]": "MHT (11 hrs)",
+    "Location [note 3]": "Eninmen (Tare), Bikini Atoll 11°30′14″N 165°22′07″E﻿ / ﻿11.50376°N 165.36852°E",
+    "Elevation + height [note 4]": "2 m (6 ft 7 in) + 1 m (3 ft 3 in)",
+    "Delivery,[note 5]purpose [note 6]": "dry surface,weapons development",
+    "Device [note 7]": "Morgenstern",
+    "Yield [note 8]": "110 kt",
+    "Fallout [note 9]": "",
+    "References": "[10][11][12][13]",
+    "Notes": "UCRL design, last one that Teller worked on, secondary delayed too long, and fizzled at 110 kt yield."
+  },
+  {
+    "Name [note 1]": "Union",
+    "Date time (UT)": "April 25, 1954 18:10:00.6",
+    "Local time zone [note 2][9]": "MHT (11 hrs)",
+    "Location [note 3]": "Yurochi aka Irioj (Dog), Bikini Atoll 11°39′59″N 165°23′14″E﻿ / ﻿11.6664°N 165.3872°E",
+    "Elevation + height [note 4]": "0 + 4 m (13 ft)",
+    "Delivery,[note 5]purpose [note 6]": "barge,weapons development",
+    "Device [note 7]": "TX-14 w/ RACER IV \"Alarm Clock",
+    "Yield [note 8]": "6.9 Mt",
+    "Fallout [note 9]": "",
+    "References": "[10][11][12][13]",
+    "Notes": "Prototype EC-14, used expensive 95% enriched Li-6 fuel, RACER IV primary."
+  },
+  {
+    "Name [note 1]": "Yankee 2",
+    "Date time (UT)": "May 4, 1954 18:10:00.1",
+    "Local time zone [note 2][9]": "MHT (11 hrs)",
+    "Location [note 3]": "Yurochi aka Irioj (Dog), Bikini Atoll 11°39′56″N 165°23′13″E﻿ / ﻿11.6656°N 165.3869°E",
+    "Elevation + height [note 4]": "0 + 4.3 m (14 ft)",
+    "Delivery,[note 5]purpose [note 6]": "barge,weapons development",
+    "Device [note 7]": "TX/EC-24 RACER IV \"Runt II",
+    "Yield [note 8]": "13.5 Mt",
+    "Fallout [note 9]": "",
+    "References": "[10][11][12][13]",
+    "Notes": "Proof test of TX/EC-24 with a RACER IV primary. After Bravo's success, the wet/dry TX/EC-16 Jughead device that was to be tested was discarded for the Runt2 dry device, hence the \"2\" designation."
+  },
+  {
+    "Name [note 1]": "Nectar",
+    "Date time (UT)": "May 13, 1954 18:20:00.1",
+    "Local time zone [note 2][9]": "MHT (11 hrs)",
+    "Location [note 3]": "Elugelab (Flora), Enewetak Atoll 11°40′14″N 162°11′47″E﻿ / ﻿11.6705°N 162.1964°E",
+    "Elevation + height [note 4]": "0 + 4.3 m (14 ft)",
+    "Delivery,[note 5]purpose [note 6]": "barge,weapons development",
+    "Device [note 7]": "TX-15 COBRA \"Zombie",
+    "Yield [note 8]": "1.7 Mt",
+    "Fallout [note 9]": "",
+    "References": "[10][11][12][13]",
+    "Notes": "Test of stage 3 fission from fast neutrons."
+  }
+]
