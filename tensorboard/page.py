@@ -5,7 +5,7 @@ import numpy
 
 
 def load_vectors(datadir, size):
-    VGG = pjoin(datadir, 'all_vgg19.pkl')
+    VGG = pjoin(datadir, 'all.res.pkl')
     META = pjoin(datadir, 'metadata.tsv')
     emb, names = pickle.load(open(VGG, 'br'))
     SIZE = min(size, len(emb))
@@ -17,7 +17,9 @@ def load_vectors(datadir, size):
         for i in range(SIZE):
             name = names[i]
             vectors[i] = emb[i]
-            docid, page = map(int, name[0].split("/")[-1].split(".")[0].split("_"))
+            docid, page = name[0].split('/')[-2:]
+            docid = int(docid)
+            page = int(page.replace('.png', ""))
             meta_f.write(f'{i}\t{docid}\t{page}\thttp://tarski.cs-i.brandeis.edu:5100/query/{docid}_{page:04}.png\n')
 
     return vectors

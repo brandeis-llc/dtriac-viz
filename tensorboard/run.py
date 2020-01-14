@@ -35,7 +35,7 @@ if __name__ == '__main__':
     parser.add_argument(
         '-n', '--name',
         required=False,
-        default='',
+        default=None,
         action='store',
         nargs='?',
         help='Human-friendly name of the embedding. When not given, last node in the `datadir` will be used.'
@@ -48,15 +48,16 @@ if __name__ == '__main__':
         help='Port to the board to listen to serve a web app.'
     )
     args = parser.parse_args()
-    datadir = expanduser(args.datadir)
+    datadir = os.path.normpath(expanduser(args.datadir))
     loader = importlib.import_module(args.loader)
     vectors = loader.load_vectors(datadir, args.size)
-    if args.name == "":
-        name = os.path.basename(args.datadir)
+    if args.name is None:
+        name = os.path.basename(datadir)
     else:
         name = args.name
     create_ckpt.create_ckpt(vectors, datadir, name)
 
+    # writes config fils for tb
     from tensorboard import program
     tb = program.TensorBoard()
     tb.configure(argv=[None, '--logdir', datadir, '--port', args.port])

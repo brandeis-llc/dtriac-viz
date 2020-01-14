@@ -6,7 +6,9 @@ from tensorflow.contrib.tensorboard.plugins import projector
 
 def create_ckpt(vectors, datadir, name):
     META_F = 'metadata.tsv'
-    META = pjoin(datadir, META_F)
+    CONFIG = pjoin(datadir, 'projector_config.pbtxt')
+    with open(CONFIG, 'w+') as config_f:
+        config_f.write(f'embeddings {{ metadata_path: "{META_F}" }}\n')
     SIZE, DIM = vectors.shape
     X_init = tf.placeholder(tf.float32, shape=vectors.shape, name=f'{name}-{DIM}d')
     X = tf.Variable(X_init)
