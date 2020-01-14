@@ -110,7 +110,6 @@ def init_es_index(index_name):
 
 def read_bombs(datadir):
     for program in os.listdir(datadir):
-        print(program)
         for bomb in json.load(open(os.path.join(datadir, program))):
             for key in bomb.keys():
                 tz = None
