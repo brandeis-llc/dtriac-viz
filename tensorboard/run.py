@@ -6,17 +6,17 @@ import create_ckpt
 
 if __name__ == '__main__':
     import argparse
+    import importlib
     parser = argparse.ArgumentParser(
         formatter_class=argparse.ArgumentDefaultsHelpFormatter,
         description=__doc__
     )
     parser.add_argument(
-        '-m', '--model',
+        '-l', '--loader',
         required=True,
-        choices=['doc', 'page', 'mm'],
         action='store',
         nargs='?',
-        help='Model to use. `doc` to visualize doc2vec vectors, `page` image vectors from first 2 pages, `mm` combined vectors.'
+        help='module name to use for loading vector data.'
     )
     parser.add_argument(
         '-s', '--size',
@@ -49,15 +49,7 @@ if __name__ == '__main__':
     )
     args = parser.parse_args()
     datadir = expanduser(args.datadir)
-    if args.model == 'doc':
-        import doc
-        loader = doc
-    elif args.model == 'page':
-        import page
-        loader = page
-    elif args.model == 'mm':
-        import mm
-        loader = mm
+    loader = importlib.import_module(args.loader)
     vectors = loader.load_vectors(datadir, args.size)
     if args.name == "":
         name = os.path.basename(args.datadir)
