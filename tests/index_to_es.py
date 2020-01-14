@@ -2,6 +2,7 @@ import datetime
 import json
 import os
 import re
+import urllib.parse
 
 from elasticsearch import Elasticsearch as ES
 from elasticsearch import helpers
@@ -109,6 +110,7 @@ def init_es_index(index_name):
 
 def read_bombs(datadir):
     for program in os.listdir(datadir):
+        print(program)
         for bomb in json.load(open(os.path.join(datadir, program))):
             for key in bomb.keys():
                 tz = None
@@ -124,11 +126,11 @@ def read_bombs(datadir):
                     name = bomb[key]
                 # program = random.sample(programs, 1)[0]
             yield {'_type': '_doc', '_source': {'year': date.isoformat(),
-                                               'location': location,
-                                               'yield': y,
-                                               'name': name,
-                                               'program': program.split('.')[0]
-                                               }}
+                                                'location': location,
+                                                'yield': y,
+                                                'name': name,
+                                                'ground_more': urllib.parse.unquote(program.split('.')[0])
+                                                }}
 
 
 if __name__ == '__main__':
