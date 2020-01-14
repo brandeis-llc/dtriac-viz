@@ -123,7 +123,7 @@ def read_bombs(datadir):
                 if "name" in key.lower():
                     name = bomb[key]
                 # program = random.sample(programs, 1)[0]
-            yield {'_type': '_doc', '_source': {'date': date.isoformat(),
+            yield {'_type': '_doc', '_source': {'year': date.isoformat(),
                                                'location': location,
                                                'yield': y,
                                                'name': name,
