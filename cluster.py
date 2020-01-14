@@ -12,6 +12,7 @@ from tqdm import tqdm
 from torch.autograd import Variable
 from PIL import Image
 
+CUDA = torch.cuda.is_available()
 
 class ModelBottom(nn.Module):
     '''
@@ -20,6 +21,8 @@ class ModelBottom(nn.Module):
     def __init__(self, original_model):
         super(ModelBottom, self).__init__()
         self.features = nn.Sequential(*list(original_model.children())[:-1]) ## this needs to be modified for different models
+        if CUDA:
+            self.features = self.features.cuda()
         for param in self.features.parameters():
             param.requires_grad = False
 
@@ -53,7 +56,10 @@ def load_images(root):
          std=[0.229, 0.224, 0.225]                  #[7]
      )])
     data_set = ImageFolderWithPaths(root=root, transform=normalize)
-    data = DataLoader(data_set, batch_size=1, num_workers=2, shuffle=True)
+    if CUDA:
+        data = DataLoader(data_set, batch_size=1, num_workers=2, shuffle=True, pin_memory=True)
+    else:
+        data = DataLoader(data_set, batch_size=1, num_workers=2, shuffle=True)
     return data
 
 def apply_pretrained(model, data, count=math.inf):
@@ -71,8 +77,12 @@ def apply_pretrained(model, data, count=math.inf):
         path = d[2]
         if (i > count):
             break
+        if CUDA: 
+            data = data.cuda()
         out = model.forward(data)
         flat = out.flatten()
+        if CUDA:
+            flat = flat.cpu()
         res.append(flat.numpy())
         paths.append(path)
     return res, paths
