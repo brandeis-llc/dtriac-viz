@@ -1,0 +1,54 @@
+[
+  {
+    "Name [note 1]": "Pascal-C",
+    "Date time (UT)": "December 6, 1957 20:15:00.0",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area U3e 37°03′00″N 116°01′54″W﻿ / ﻿37.04992°N 116.03159°W",
+    "Elevation + height [note 4]": "1,202 m (3,944 ft) - 80 m (260 ft)",
+    "Delivery [note 5]Purpose [note 6]": "underground shaft,safety experiment",
+    "Device [note 7]": "XW-42 ?",
+    "Yield [note 8]": "10 t",
+    "Fallout [note 9]": "",
+    "References": "[1][5][6][7][8]",
+    "Notes": "One point safety test, partially successful (?)."
+  },
+  {
+    "Name [note 1]": "Coulomb-C",
+    "Date time (UT)": "December 9, 1957 20:00:??",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area S3i 37°02′39″N 116°01′50″W﻿ / ﻿37.0443°N 116.0305°W",
+    "Elevation + height [note 4]": "1,225 m (4,019 ft) + 0",
+    "Delivery [note 5]Purpose [note 6]": "dry surface,safety experiment",
+    "Device [note 7]": "Moccasin",
+    "Yield [note 8]": "500 t",
+    "Fallout [note 9]": "I-131 venting detected, 69 kCi (2,600 TBq)",
+    "References": "[1][5][6][7][8][9][10]",
+    "Notes": "One point safety test, upper bound overtest. Similar to the Moccasin device fired in Hardtack II Hidalgo. Failure, 500 ton explosion."
+  },
+  {
+    "Name [note 1]": "Venus",
+    "Date time (UT)": "February 22, 1958 01:00:00",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area U12d.01 37°11′41″N 116°12′02″W﻿ / ﻿37.19475°N 116.20068°W",
+    "Elevation + height [note 4]": "2,104 m (6,903 ft) - 30.48 m (100.0 ft)",
+    "Delivery [note 5]Purpose [note 6]": "tunnel,safety experiment",
+    "Device [note 7]": "XW-47 primary ?",
+    "Yield [note 8]": "500 kg",
+    "Fallout [note 9]": "",
+    "References": "[1][5][6][7][8][10][11]",
+    "Notes": "One point safety test, partially successful (?). Similar to Hardtack II Oberon and Sanford devices."
+  },
+  {
+    "Name [note 1]": "Uranus",
+    "Date time (UT)": "March 14, 1958 22:00:00",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area U12c.01 37°11′36″N 116°12′01″W﻿ / ﻿37.193397°N 116.20014°W",
+    "Elevation + height [note 4]": "2,068 m (6,785 ft) - 34.75 m (114.0 ft)",
+    "Delivery [note 5]Purpose [note 6]": "tunnel,safety experiment",
+    "Device [note 7]": "XW-48",
+    "Yield [note 8]": "500 kg",
+    "Fallout [note 9]": "",
+    "References": "[1][5][6][7][8][10][11]",
+    "Notes": "One point safety test, partially successful (?). Similar to devices fired in Hardtack II Mars, Tamalpais, and Ceres."
+  }
+]

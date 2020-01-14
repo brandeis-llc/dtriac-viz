@@ -1,0 +1,54 @@
+[
+  {
+    "Name [note 1]": "Double Tracks",
+    "Date time (UT)": "May 15, 1963 09:55:??",
+    "Local time zone [note 2][2]": "PST (-8 hrs)",
+    "Location [note 3]": "Tonopah Test Range, Nevada 37°42′19″N 116°59′14″W﻿ / ﻿37.70527°N 116.98715°W",
+    "Elevation + height [note 4]": "1,518 m (4,980 ft) + 0",
+    "Delivery [note 5]Purpose [note 6]": "dry surface,safety/transportation test",
+    "Device [note 7]": "",
+    "Yield [note 8]": "no yield",
+    "Fallout [note 9]": "",
+    "References": "[1][3][4][5][6]",
+    "Notes": "Storage-transportation safety experiment, measured plutonium dispersal risk."
+  },
+  {
+    "Name [note 1]": "Clean Slate I",
+    "Date time (UT)": "May 25, 1963 11:17:??",
+    "Local time zone [note 2][2]": "PST (-8 hrs)",
+    "Location [note 3]": "Tonopah Test Range, Nevada 37°42′31″N 116°39′28″W﻿ / ﻿37.70853°N 116.65786°W",
+    "Elevation + height [note 4]": "1,645 m (5,397 ft) + 0",
+    "Delivery [note 5]Purpose [note 6]": "dry surface,safety/transportation test",
+    "Device [note 7]": "",
+    "Yield [note 8]": "no yield",
+    "Fallout [note 9]": "Venting detected off site",
+    "References": "[1][3][4][5][6]",
+    "Notes": "Storage-transportation safety experiment, measured plutonium dispersal risk."
+  },
+  {
+    "Name [note 1]": "Clean Slate II",
+    "Date time (UT)": "May 31, 1963 10:47:??",
+    "Local time zone [note 2][2]": "PST (-8 hrs)",
+    "Location [note 3]": "Tonopah Test Range, Nevada 37°45′41″N 116°36′50″W﻿ / ﻿37.7614°N 116.61378°W",
+    "Elevation + height [note 4]": "1,683 m (5,522 ft) + 0",
+    "Delivery [note 5]Purpose [note 6]": "dry surface,safety/transportation test",
+    "Device [note 7]": "",
+    "Yield [note 8]": "no yield",
+    "Fallout [note 9]": "",
+    "References": "[1][3][4][5][6]",
+    "Notes": "Storage-transportation safety experiment, measured plutonium dispersal risk."
+  },
+  {
+    "Name [note 1]": "Clean Slate III",
+    "Date time (UT)": "June 9, 1963 10:30:??",
+    "Local time zone [note 2][2]": "PST (-8 hrs)",
+    "Location [note 3]": "Tonopah Test Range, Nevada 37°45′33″N 116°40′52″W﻿ / ﻿37.75914°N 116.68123°W",
+    "Elevation + height [note 4]": "1,645 m (5,397 ft) + 0",
+    "Delivery [note 5]Purpose [note 6]": "dry surface,safety/transportation test",
+    "Device [note 7]": "",
+    "Yield [note 8]": "no yield",
+    "Fallout [note 9]": "Venting detected off site",
+    "References": "[1][3][4][5][6]",
+    "Notes": "Storage-transportation safety experiment, measured plutonium dispersal risk."
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "mappings": {
+    "_doc": {
+      "properties": {
+        "name": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "ground_mode": {
+          "type": "keyword"
+        },
+        "location": {
+          "type": "geo_point"
+        },
+        "yield": {
+          "type": "long"
+        },
+        "year": {
+          "type": "date"
+        }
+      }
+    }
+  }
+}

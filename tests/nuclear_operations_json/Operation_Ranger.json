@@ -1,0 +1,67 @@
+[
+  {
+    "Name [note 1]": "Able",
+    "Date time (UT)": "January 27, 1951 13:44:51.0",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area 5 ~ 36°49′36″N 115°57′32″W﻿ / ﻿36.82664°N 115.95883°W",
+    "Elevation + height [note 4]": "1,010 m (3,310 ft) + 323 m (1,060 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "free air drop,weapons development",
+    "Device [note 7]": "Mk-4, Type D",
+    "Yield [note 8]": "1 kt",
+    "Fallout [note 9]": "I-131 venting detected, 1.3 MCi (48 PBq)",
+    "References": "[5][6][7][8][9][10]",
+    "Notes": "First test over continental United States since Trinity. Testing compression against critical mass as inspired by the demon core.  Often later used for a 1 kt calibrated explosion. See also Ranger/Easy."
+  },
+  {
+    "Name [note 1]": "Baker",
+    "Date time (UT)": "January 28, 1951 13:52:04.5",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area 5 ~ 36°49′36″N 115°57′32″W﻿ / ﻿36.82664°N 115.95883°W",
+    "Elevation + height [note 4]": "1,010 m (3,310 ft) + 329 m (1,079 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "free air drop,weapons development",
+    "Device [note 7]": "Mk-4, Type D, TOM Init",
+    "Yield [note 8]": "8 kt",
+    "Fallout [note 9]": "I-131 venting detected, 3.2 MCi (120 PBq)",
+    "References": "[5][6][7][8][9][10]",
+    "Notes": "Fractional critical core, TOM initiator. See also Ranger/Easy."
+  },
+  {
+    "Name [note 1]": "Easy",
+    "Date time (UT)": "February 1, 1951 13:46:39.5",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area 5 ~ 36°49′36″N 115°57′32″W﻿ / ﻿36.82664°N 115.95883°W",
+    "Elevation + height [note 4]": "1,010 m (3,310 ft) + 329 m (1,079 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "free air drop,weapons development",
+    "Device [note 7]": "Mk-4, Type D",
+    "Yield [note 8]": "1 kt",
+    "Fallout [note 9]": "",
+    "References": "[5][6][7][8][9][10]",
+    "Notes": "Testing compression against critical mass."
+  },
+  {
+    "Name [note 1]": "Baker 2",
+    "Date time (UT)": "February 2, 1951 13:48:48.0",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area 5 ~ 36°49′36″N 115°57′32″W﻿ / ﻿36.82664°N 115.95883°W",
+    "Elevation + height [note 4]": "1,010 m (3,310 ft) + 335 m (1,099 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "free air drop,weapons development",
+    "Device [note 7]": "Mk-4, Type D",
+    "Yield [note 8]": "8 kt",
+    "Fallout [note 9]": "",
+    "References": "[5][6][7][8][9][10]",
+    "Notes": "Identical to Baker-1, test of reproducible results. See also Ranger/Easy."
+  },
+  {
+    "Name [note 1]": "Fox",
+    "Date time (UT)": "February 6, 1951 13:46:55.0",
+    "Local time zone [note 2][4]": "PST (-8 hrs)",
+    "Location [note 3]": "NTS Area 5 36°49′29″N 115°58′01″W﻿ / ﻿36.82485°N 115.96708°W",
+    "Elevation + height [note 4]": "1,010 m (3,310 ft) + 437 m (1,434 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "free air drop,weapons development",
+    "Device [note 7]": "Mk-6 HOW, Type D \"Freddy",
+    "Yield [note 8]": "22 kt",
+    "Fallout [note 9]": "",
+    "References": "[5][6][7][8][9][10]",
+    "Notes": "Proof Test of Mark 6 HOW  \"Fox\" core. \"500 ft west and 300 ft south of drop target used by other Ranger blasts, to avoid damage to the control point.\"."
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "Name [note 1]": "X-ray",
+    "Date time (UT)": "April 14, 1948 18:16:59.0",
+    "Local time zone [note 2][31]": "MHT (11 hrs)",
+    "Location [note 3]": "Enjebi (Janet), Enewetak Atoll 11°39′46″N 162°14′16″E﻿ / ﻿11.66276°N 162.23785°E",
+    "Elevation + height [note 4]": "1 m (3 ft 3 in) + 61 m (200 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "tower,weapons development",
+    "Device [note 7]": "Mk-3, Type B levitated",
+    "Yield [note 8]": "37 kt",
+    "Fallout [note 9]": "I-131 venting detected, 140 kCi (5,200 TBq)",
+    "References": "[32][33][34][35][36][37]",
+    "Notes": "2:1 oralloy-plutonium, levitated core.  2.38 kg (5.2 lb) Pu + 4.77 kg (10.5 lb) oralloy yielded 37 kt at 21% efficiency.  Levitation was considered a top secret technique until 1980."
+  },
+  {
+    "Name [note 1]": "Yoke",
+    "Date time (UT)": "April 30, 1948 18:08:59.0",
+    "Local time zone [note 2][31]": "MHT (11 hrs)",
+    "Location [note 3]": "Aomon (Sally), Enewetak Atoll 11°36′56″N 162°19′10″E﻿ / ﻿11.61569°N 162.3194°E",
+    "Elevation + height [note 4]": "1 m (3 ft 3 in) + 61 m (200 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "tower,weapons development",
+    "Device [note 7]": "Mk-3, Type B levitated",
+    "Yield [note 8]": "49 kt",
+    "Fallout [note 9]": "I-131 venting detected, 1.3 MCi (48 PBq)",
+    "References": "[32][33][34][35][36][37]",
+    "Notes": "Oralloy core 2.5 kg (5.5 lb) Pu, 5 kg (11 lb) U235. (Hanson says it probably was pure U-235), levitated core."
+  },
+  {
+    "Name [note 1]": "Zebra",
+    "Date time (UT)": "May 14, 1948 18:04:00.0",
+    "Local time zone [note 2][31]": "MHT (11 hrs)",
+    "Location [note 3]": "Runit (Yvonne), Enewetak Atoll 11°32′07″N 162°21′38″E﻿ / ﻿11.5352°N 162.36063°E",
+    "Elevation + height [note 4]": "1 m (3 ft 3 in) + 61 m (200 ft)",
+    "Delivery,[note 5]Purpose [note 6]": "tower,weapons development",
+    "Device [note 7]": "Mk-3, Type B levitated",
+    "Yield [note 8]": "18 kt",
+    "Fallout [note 9]": "I-131 venting detected, 100 kCi (3,700 TBq)",
+    "References": "[32][33][34][35][36][37]",
+    "Notes": "Considered so optimal that it was put into immediate production for Mark 4."
+  }
+]
