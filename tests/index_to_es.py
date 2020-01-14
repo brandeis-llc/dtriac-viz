@@ -128,7 +128,7 @@ def read_bombs(datadir):
                                                 'location': location,
                                                 'yield': y,
                                                 'name': name,
-                                                'ground_more': urllib.parse.unquote(program.split('.')[0])
+                                                'ground_more': urllib.parse.unquote(program.split('.')[0].replace('_', ' '))
                                                 }}
 
 
