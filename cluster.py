@@ -19,7 +19,7 @@ class ModelBottom(nn.Module):
     '''
     def __init__(self, original_model):
         super(ModelBottom, self).__init__()
-        self.features = nn.Sequential(*list(original_model.children())[:-2]) ## this needs to be modified for different models
+        self.features = nn.Sequential(*list(original_model.children())[:-1]) ## this needs to be modified for different models
         for param in self.features.parameters():
             param.requires_grad = False
 
@@ -83,7 +83,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Model Training ')
     parser.add_argument('--data', action="store", dest="data",
                         help='path to directory containing image dataset')
-    parser.add_argument('--model', action="store", dest="model",
+    parser.add_argument('--model', action="store", dest="model", choices=["vgg19", 'resnet50'],
                         help="pretrained model name")
     parser.add_argument('--output', action="store", dest="output",
                         help="location to store the output pickle")
@@ -99,7 +99,7 @@ if __name__ == '__main__':
     parser.add_argument('--cluster_model', action="store", dest="cluster_store",
                         default=None, help="location to store the KMeans model.")
 
-    parser.add_argument('--vis', action="store", dest="vis", default=True,
+    parser.add_argument('--vis', action="store_true", 
                         help="generate output for tensorboard visualization")
 
     args = parser.parse_args()
@@ -107,8 +107,10 @@ if __name__ == '__main__':
 
     if args.data_embed and os.path.isfile(args.data_embed):
         res, paths = pickle.load(open(args.data_embed, 'rb'))
+        print("DATA LOADED AND READY")
     elif args.data and os.path.isdir(args.data):
         data = load_images(args.data)
+        print("LOADING PRETRAINED MODEL")
         if args.model == "resnet50":
             res50_model = models.resnet50(pretrained=True)
             model = ModelBottom(res50_model)
@@ -118,13 +120,16 @@ if __name__ == '__main__':
         else:
             raise BaseException("Invalid Model Argument")
 
+        print("EXTRACTING FEATURES")
         res, paths = apply_pretrained(model, data, count=args.inst_count)
+        print(len(res[0]))
         pickle.dump((res, paths), open(args.output, 'wb'))
 
     if args.vis:
         from torch.utils.tensorboard import SummaryWriter
 
         writer = SummaryWriter()
+        print("WRITING SUMMARY")
         writer.add_embedding(np.array(res), metadata=paths)
         writer.close()
 
