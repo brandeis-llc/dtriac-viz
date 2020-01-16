@@ -1,0 +1,76 @@
+{
+  $schema: https://vega.github.io/schema/vega/v3.3.1.json
+  padding: 5
+  data: [
+    {
+      name: programs
+      url: {
+        %context%: true
+        index: nuke_tests
+        body: {
+          aggs: {
+            programs: {
+              terms: {field: "ground_more.keyword", size: 60}
+              aggs: {
+                start: {
+                  min: {field: "year"}
+                }
+                end: {
+                  max: {field: "year"}
+                }
+                programs_bucket_sort: {
+                  bucket_sort: {
+                    sort: {
+                      start.value: {order: "asc"}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      format: {property: "aggregations.programs.buckets"}
+    }
+  ]
+  scales: [
+    {
+      name: yscale
+      type: band
+      range: [
+        0
+        {signal: "height"}
+      ]
+      domain: {data: "programs", field: "key"}
+    }
+    {
+      name: xscale
+      type: time
+      range: width
+      round: true
+      domain: {
+        data: programs
+        fields: ["start.value", "end.value"]
+      }
+    }
+  ]
+  axes: [
+    {orient: "bottom", scale: "xscale", format: "%Y"}
+    {orient: "left", scale: "yscale"}
+  ]
+  marks: [
+    {
+      type: rect
+      from: {data: "programs"}
+      encode: {
+        enter: {
+          x: {scale: "xscale", field: "start.value"}
+          x2: {scale: "xscale", field: "end.value","offset": 3}
+          y: {scale: "yscale", field: "key"}
+          height: {value: 8}
+          fill: {value: "#e57"}
+        }
+      }
+    }
+  ]
+}
