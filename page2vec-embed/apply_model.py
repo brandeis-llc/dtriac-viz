@@ -13,7 +13,7 @@ if __name__ == '__main__':
     parser.add_argument('--data', action="store", dest="data",
                         help='path to directory containing image dataset')
     parser.add_argument('--output', action="store", dest="out_csv",
-                        help='path to directory containing image dataset')
+                        help='path to csv file to store cluster prediction results')
     args = parser.parse_args()
 
     KMeans = joblib.load(args.model_path)
