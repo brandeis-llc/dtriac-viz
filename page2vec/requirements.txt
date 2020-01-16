@@ -1,0 +1,5 @@
+torch
+torchvision
+Pillow==6.2.0
+tensorflow==1.14
+tqdm
