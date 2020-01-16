@@ -27,10 +27,10 @@ if __name__ == '__main__':
         help='Number of data instance to load in. If not given, read all data in. '
     )
     parser.add_argument(
-        '-d', '--datadir',
+        '-d', '--datapath',
         action='store',
         nargs='?',
-        help='Directory name where persist vector file is stored.'
+        help='A file name with persisted vectors.'
     )
     parser.add_argument(
         '-n', '--name',
@@ -38,7 +38,7 @@ if __name__ == '__main__':
         default=None,
         action='store',
         nargs='?',
-        help='Human-friendly name of the embedding. When not given, last node in the `datadir` will be used.'
+        help='Human-friendly name of the embedding. When not given, last node in the base file name will be used.'
     )
     parser.add_argument(
         '-p', '--port',
@@ -48,19 +48,20 @@ if __name__ == '__main__':
         help='Port to the board to listen to serve a web app.'
     )
     args = parser.parse_args()
-    datadir = os.path.normpath(expanduser(args.datadir))
+    datapath = os.path.normpath(expanduser(args.datapath))
+    data_dir, data_base = os.path.split(datapath)
     loader = importlib.import_module(args.loader)
-    vectors = loader.load_vectors(datadir, args.size)
+    vectors = loader.load_vectors(datapath, args.size)
     if args.name is None:
-        name = os.path.basename(datadir)
+        name = data_base
     else:
         name = args.name
-    create_ckpt.create_ckpt(vectors, datadir, name)
+    create_ckpt.create_ckpt(vectors, data_dir, name)
 
     # writes config fils for tb
     from tensorboard import program
     tb = program.TensorBoard()
-    tb.configure(argv=[None, '--logdir', datadir, '--port', args.port])
+    tb.configure(argv=[None, '--logdir', data_dir, '--port', args.port])
     url = tb.main()
 
 
