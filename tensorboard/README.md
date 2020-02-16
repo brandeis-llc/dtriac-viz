@@ -15,3 +15,13 @@ In this function, you are also responsible for writing a metadata file. A metada
 
 Once your module is ready, (see [`doc.py`](doc.py), or [`page.py`](page.py) for examples) you can pass the name of the module as an argument to `-l` option to the [`run.py`](run.py). 
 For more options see help message from `run.py`. 
+
+#### example
+
+```
+python ./run.py   -l page -d /data/dtriac/dtriac-19d/vectorization/page2vec/all.res.pkl -n page2vec -p 6008
+```
+
+## TODO
+
+* add support for sprite (see [this issue](https://github.com/tensorflow/tensorboard/issues/670) for how)
